@@ -16,15 +16,15 @@
     let shift = 0;
     let W = root.clientWidth || 375;
 
-    const tall = root.classList.contains('tall');   // карточки 300×400: центр соседней смещён на ±243 по горизонтали и +32 по вертикали (Figma 6495:4852)
-    const pitch = tall ? 243 : PITCH;
+    const tall = root.classList.contains('tall');   // карточки 300×350: центр соседней смещён на ±249,6 по горизонтали и +33 по вертикали (Figma 6495:4852, 6537:4944)
+    const pitch = tall ? 249.6 : PITCH;
 
     const anchors = () => {
       const cl = (W - 300) / 2;
       if (tall) {
         return {
-          tx: [cl - 486, cl - 243, cl, cl + 243, cl + 486],
-          ty: [64, 32, 0, 32, 64],
+          tx: [cl - 499, cl - 249.6, cl, cl + 249.6, cl + 499],
+          ty: [66, 33, 0, 33, 66],
           rot: [-ANGLE, -ANGLE, 0, ANGLE, ANGLE],
           op: [0, 1, 1, 1, 0],
         };

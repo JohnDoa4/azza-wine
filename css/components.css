@@ -63,9 +63,9 @@
   -webkit-backdrop-filter: blur(7.5px); backdrop-filter: blur(7.5px);
   overflow: hidden; backface-visibility: hidden;
 }
-.deck.tall { height: 420px; }
-.deck.tall .deck-card { height: 400px; transform-origin: 50% 50%; }
-.deck.tall .dc-img { top: 65px; }
+.deck.tall { height: 370px; }
+.deck.tall .deck-card { height: 350px; transform-origin: 50% 50%; }
+.deck.tall .dc-img { top: 40px; }
 .deck.anim .deck-card { transition: transform .4s var(--ease), opacity .4s ease; }
 .dc-img { position: absolute; left: 0; top: 20px; width: 300px; height: 300px; pointer-events: none; }
 .dc-head { position: absolute; left: 22px; top: 22px; width: 256px; display: flex; flex-direction: column; gap: 6px; z-index: 2; }
