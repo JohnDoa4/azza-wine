@@ -58,6 +58,9 @@
     return `<div class="toprow ${o.tight ? 'tight' : ''}">${left}<div class="page-title">${esc(title)}</div>${right}</div>`;
   }
 
+  /** Кнопка «На главную» для правого края шапки. */
+  const homeRight = () => ({ icon: I.home, attrs: `data-act="home" aria-label="${A.t('home')}"` });
+
   function footer(buttonsHtml, two) {
     return `<div class="footer ${two ? 'two' : ''}">${buttonsHtml}</div>`;
   }
@@ -124,5 +127,5 @@
   }
 
   A.I = I;
-  A.ui = { badge, btn, iconBtn, toprow, footer, chip, wineRow, bottleStub, storeCard, statusChip, toast, closeOverlay, esc, fmtPrice, fmtPriceDot, wineTags, BADGE_LABEL };
+  A.ui = { badge, btn, iconBtn, toprow, homeRight, footer, chip, wineRow, bottleStub, storeCard, statusChip, toast, closeOverlay, esc, fmtPrice, fmtPriceDot, wineTags, BADGE_LABEL };
 })(window.Azza = window.Azza || {});

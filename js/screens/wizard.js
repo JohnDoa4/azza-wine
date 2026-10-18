@@ -30,7 +30,7 @@
 
   function frame(cur, body, label) {
     return `<img class="bg-cellar" src="assets/bg/cellar.png" alt="">
-      ${ui.toprow(A.t('title.sommelier'), { tight: true, right: { icon: A.I.home, attrs: `data-act="home" aria-label="${A.t('home')}"` } })}
+      ${ui.toprow(A.t('title.sommelier'), { tight: true, right: ui.homeRight() })}
       ${tabs(cur)}
       <div class="question"><h1>${STEPS[cur].q}</h1></div>
       ${body}
@@ -152,13 +152,14 @@
   R.register('loading', {
     backTo: 'step-budget', needsNet: true,
     render() {
-      return `${ui.toprow(A.t('title.recs'))}
+      return `${ui.toprow(A.t('title.recs'), { right: ui.homeRight() })}
         <div class="summary"><span>${ui.esc(A.summaryText())}</span></div>
         <div class="state-center" role="status" aria-live="polite">
           <div class="loader"><div class="plate"></div>
             <img class="l3" src="assets/images/loader/loader_03.png" alt=""><img class="l2" src="assets/images/loader/loader_02.png" alt=""><img class="l1" src="assets/images/loader/loader_01.png" alt="">
           </div><span class="sr-only">${A.t('loading.sr')}</span></div>`;
     },
+    act: { home() { R.go('home', {}, { reset: true, dir: 'back' }); } },
     mount() {
       setTimeout(() => { const c = R.current(); if (c && c.name === 'loading') R.go('results', {}, { replace: true, dir: 'fade' }); }, 2300);
     },

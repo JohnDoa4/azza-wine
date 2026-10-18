@@ -11,7 +11,7 @@
   }
 
   function emptyState() {
-    return `${ui.toprow(A.t('title.recs'))}
+    return `${ui.toprow(A.t('title.recs'), { right: ui.homeRight() })}
       <div class="summary"><span>${ui.esc(A.summaryText())}</span></div>
       <div class="state-center">
         <div class="state-icon">${A.I.search}</div>
@@ -33,12 +33,13 @@
         ? `<div class="wine-note"><b>${A.t('note.title')}</b><p>${ui.esc(A.t('note.text', { country: (A.data.countries.find((c) => c.id === S.country) || {}).title || '', n: res.found }))}</p></div>` +
           res.others.map((p) => ui.wineRow(p.wine, p.badge, `data-b="${p.badge || ''}"`)).join('')
         : '';
-      return `${ui.toprow(A.t('title.recs'))}
+      return `${ui.toprow(A.t('title.recs'), { right: ui.homeRight() })}
         <div class="summary"><span>${ui.esc(A.summaryText())}</span></div>
         <div class="list-scroll scroll"><div class="wine-list">${rows}${note}</div></div>
         ${ui.footer(ui.btn(A.t('btn.editsearch'), 'secondary', 'data-go="step-occasion"') + ui.btn(A.t('btn.buy'), 'primary', 'data-go="stores"'), true)}`;
     },
     act: {
+      home() { R.go('home', {}, { reset: true, dir: 'back' }); },
       'relax-budget'(el) { S.budget = [Math.min(S.budget[0], 5), Math.max(S.budget[1], 60)]; R.go('results', {}, { replace: true, dir: 'fade' }); },
       'relax-country'(el) { S.country = 'all'; R.go('results', {}, { replace: true, dir: 'fade' }); },
     },
