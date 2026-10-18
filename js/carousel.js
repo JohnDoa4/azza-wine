@@ -16,8 +16,19 @@
     let shift = 0;
     let W = root.clientWidth || 375;
 
+    const tall = root.classList.contains('tall');   // карточки 300×400: центр соседней смещён на ±243 по горизонтали и +32 по вертикали (Figma 6495:4852)
+    const pitch = tall ? 243 : PITCH;
+
     const anchors = () => {
       const cl = (W - 300) / 2;
+      if (tall) {
+        return {
+          tx: [cl - 486, cl - 243, cl, cl + 243, cl + 486],
+          ty: [64, 32, 0, 32, 64],
+          rot: [-ANGLE, -ANGLE, 0, ANGLE, ANGLE],
+          op: [0, 1, 1, 1, 0],
+        };
+      }
       return {
         tx: [cl - 600, cl - 300 * Math.cos(rad), cl, cl + 300, cl + 600],
         ty: [120, 300 * Math.sin(rad), 0, 0, 40],
@@ -72,7 +83,7 @@
       const now = performance.now();
       if (now - down.lastT > 16) { down.v = (e.clientX - down.lastX) / scale / (now - down.lastT); down.lastX = e.clientX; down.lastT = now; }
       if (down.moved) {
-        shift = Math.max(-0.35 - active, Math.min(n - 1 + 0.35 - active, -dx / PITCH));
+        shift = Math.max(-0.35 - active, Math.min(n - 1 + 0.35 - active, -dx / pitch));
         layout();
       }
     });

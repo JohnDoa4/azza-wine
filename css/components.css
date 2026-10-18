@@ -39,7 +39,7 @@
 .step-tab[disabled] { cursor: default; }
 
 /* ===== Вопрос ===== */
-.question { position: absolute; top: 155px; left: 0; right: 0; padding: 12px 24px; z-index: 4; }
+.question { position: absolute; top: 155px; left: 0; right: 0; height: 100px; padding: 12px 24px; display: flex; flex-direction: column; justify-content: center; z-index: 4; }
 .question h1 { font: 400 32px/38px var(--f-serif); color: var(--ink); }
 
 /* ===== Нижняя панель ===== */
@@ -63,6 +63,9 @@
   -webkit-backdrop-filter: blur(7.5px); backdrop-filter: blur(7.5px);
   overflow: hidden; backface-visibility: hidden;
 }
+.deck.tall { height: 420px; }
+.deck.tall .deck-card { height: 400px; transform-origin: 50% 50%; }
+.deck.tall .dc-img { top: 65px; }
 .deck.anim .deck-card { transition: transform .4s var(--ease), opacity .4s ease; }
 .dc-img { position: absolute; left: 0; top: 20px; width: 300px; height: 300px; pointer-events: none; }
 .dc-head { position: absolute; left: 22px; top: 22px; width: 256px; display: flex; flex-direction: column; gap: 6px; z-index: 2; }

@@ -16,8 +16,8 @@
   }
 
   /** top — отступ колоды сверху. */
-  function html(items, top) {
-    return `<div class="deck" data-deck style="top:${top}px">${items.map((it, i) => card(it, i)).join('')}</div>`;
+  function html(items, top, tall) {
+    return `<div class="deck ${tall ? 'tall' : ''}" data-deck style="top:${top}px">${items.map((it, i) => card(it, i)).join('')}</div>`;
   }
 
   function dots(n, active, top, cls) {
