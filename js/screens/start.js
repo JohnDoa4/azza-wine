@@ -37,7 +37,7 @@
           <button class="lang-pill" data-act="open-lang" aria-label="${A.t('lang.aria', { code: lang })}"><span>${lang}</span></button>
         </div>
         <h1 class="home-title">${A.t('tag')}</h1>
-        ${A.deck.html(D.home, 290.5, true)}
+        ${A.deck.html(D.home, 239, true)}
         ${A.deck.dots(D.home.length, 0, 711, 'wine')}
         <div class="footer"><button class="btn btn-primary" data-act="cta">${D.home[0].cta}</button></div>
         ${ctx.params.sheet === 'lang' ? langSheet() : ''}`;

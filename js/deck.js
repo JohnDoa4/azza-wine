@@ -15,13 +15,21 @@
     </div>`;
   }
 
-  /** top — отступ колоды сверху. */
+  /**
+   * Обычная колода: top — отступ сверху в px.
+   * tall (карточки 300×350): top — начало свободной области под заголовком; колода центрируется по вертикали
+   * между этой областью и точками внизу, а при высоте 812 стоит там же, где в Figma (верх центральной карточки 290,5).
+   */
   function html(items, top, tall) {
-    return `<div class="deck ${tall ? 'tall' : ''}" data-deck style="top:${top}px">${items.map((it, i) => card(it, i)).join('')}</div>`;
+    if (tall) {
+      const off = top + (812 - top - 101 - 350) / 2 - 290.5;   // поправка «не идеальный центр»: боковые карточки свисают вниз
+      return `<div class="deck tall" data-deck style="--s:${top}px;--o:${off}px">${items.map((it, i) => card(it, i)).join('')}</div>`;
+    }
+    return `<div class="deck" data-deck style="top:${top}px">${items.map((it, i) => card(it, i)).join('')}</div>`;
   }
 
   function dots(n, active, top, cls) {
-    return `<div class="deck-meta ${cls || ''}" data-dots style="top:${top}px">${Array.from({ length: n }, (_, i) => `<i class="${i === active ? 'on' : ''}"></i>`).join('')}</div>`;
+    return `<div class="deck-meta ${cls || ''}" data-dots style="bottom:${812 - 5 - top}px">${Array.from({ length: n }, (_, i) => `<i class="${i === active ? 'on' : ''}"></i>`).join('')}</div>`;
   }
 
   function updateDots(el, active) {

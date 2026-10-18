@@ -63,7 +63,7 @@
   -webkit-backdrop-filter: blur(7.5px); backdrop-filter: blur(7.5px);
   overflow: hidden; backface-visibility: hidden;
 }
-.deck.tall { height: 370px; }
+.deck.tall { height: 370px; top: max(var(--s), calc(var(--s) + (100% - var(--s) - 101px - 350px) / 2 - var(--o))); }
 .deck.tall .deck-card { height: 350px; transform-origin: 50% 50%; }
 .deck.tall .dc-img { top: 40px; }
 .deck.anim .deck-card { transition: transform .4s var(--ease), opacity .4s ease; }

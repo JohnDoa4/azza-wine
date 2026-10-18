@@ -54,7 +54,7 @@
       backTo: cur === 0 ? 'home' : STEPS[cur - 1].route,
       render() {
                 const idx = Math.max(0, step.items.findIndex((x) => x.id === S[step.key]));
-        return frame(cur, A.deck.html(step.items, 290.5, true) + A.deck.dots(step.items.length, idx, 711, ''));
+        return frame(cur, A.deck.html(step.items, 255, true) + A.deck.dots(step.items.length, idx, 711, ''));
       },
       mount(el) {
         const idx = Math.max(0, step.items.findIndex((x) => x.id === S[step.key]));
