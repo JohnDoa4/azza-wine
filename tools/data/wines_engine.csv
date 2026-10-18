@@ -1,0 +1,381 @@
+﻿name,ui_color,country,region,grape,price,stock,style,sweetness,body,acidity,tannin,aromatic,sparkling,fortified,confidence,popularity,check
+01 wine ARG Santa Julia Cabernet Sauvignon,Красное,Аргентина,Mendoza,Cabernet Sauvignon,18.00,535,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,23.7,OK
+01 wine FRA Blason AOC Macon Rouge,Красное,Франция,Macon,Gamay,24.50,139,Красное лёгкое/среднее,Сухое/не указано,2,4,2,3,Нет,Нет,84%,8.7,OK
+01 wine FRA Blason AOC Saint-Veran,Белое,Франция,Saint-Veran,Chardonnay,28.90,116,Белое текстурное сухое,Сухое,3,4,0,2,Нет,Нет,88%,19.5,OK
+01 wine FRA Borderie Chateau Les Combes AOC Lussac-Saint-Emilion Louis Gabriel,Красное,Франция,Lussac Saint Emilion,Merlot,34.00,113,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,8.7,OK
+01 wine FRA Borderie Chateau Les Gravieres AOC Bordeaux Superieur rouge AME,Красное,Франция,Bordeaux,Merlot,24.90,329,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,13.1,OK
+01 wine FRA Borderie Chateau Vieille Dynasty AOC Lalande-de-Pomerol,Красное,Франция,Lalande de Pomerol,Merlot,29.90,282,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,23.2,OK
+01 wine FRA Borderie Chateau Vieille Dynasty AOC Lalande-de-Pomerol Eleonore,Красное,Франция,Lalande de Pomerol,Cabernet Sauvignon,39.00,157,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,13.1,OK
+01 wine FRA Bougrier AOC Chinon Rouge,Красное,Франция,Loire Valley,Cabernet Franc,19.90,187,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,16.0,OK
+01 wine FRA Bougrier AOC Menetou Salon Blanc,Белое,Франция,Loire Valley,Sauvignon Blanc,28.90,213,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,8.4,OK
+01 wine FRA Bougrier AOC Touraine Sauvignon Blanc,Белое,Франция,Loire Valley,Sauvignon Blanc,19.90,125,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,19.7,OK
+01 wine FRA Bougrier AOC Vouvray Chenin Blanc,Белое,Франция,Loire Valley,Chenin Blanc,19.90,147,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,20.3,OK
+01 wine FRA Bougrier AOC Vouvray sec,Белое,Франция,Loire Valley,Chenin Blanc,21.90,162,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,16.0,OK
+01 wine FRA Brotte AOC Chateauneuf-du-Pape,Красное,Франция,Cotes du Rhone,Grenache,46.00,136,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,12.1,OK
+01 wine FRA Brotte AOC Cotes-du-Rhone blanc,Белое,Франция,Cotes du Rhone,Grenache Blanc,17.90,109,Белое текстурное сухое,Сухое/не указано,3,3,0,3,Нет,Нет,80%,18.4,OK
+01 wine FRA Brotte AOC Cotes-du-Rhone Cru - Cairanne,Красное,Франция,Cotes du Rhone,Grenache,21.90,244,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,44.8,OK
+01 wine FRA Brotte AOC Cotes-du-Rhone Cru - Gigondas,Красное,Франция,Cotes du Rhone,Grenache,34.90,172,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,10.8,OK
+01 wine FRA Brotte AOC Cotes-du-Rhone Cru - Vacqueyras,Красное,Франция,Cotes du Rhone,Grenache,27.90,211,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,13.1,OK
+01 wine FRA Brotte AOC Cotes-du-Rhone rose,Розовое,Франция,Cotes du Rhone,Grenache Noir,17.90,164,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,22.4,OK
+01 wine FRA Brotte AOC Cotes-du-Rhone rouge,Красное,Франция,Cotes du Rhone,Grenache Noir,17.90,218,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,31.1,OK
+01 wine FRA Brotte AOC Cotes-du-Rhone Villages Laudun rouge,Красное,Франция,Cotes du Rhone,Grenache,19.90,255,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,27.1,OK
+01 wine FRA Doublet Chateau Tour de Calens AOC Graves Blanc,Белое,Франция,Graves,Semillon,24.50,119,Белое текстурное сухое,Сухое/не указано,3,3,0,3,Нет,Нет,80%,1.5,OK
+01 wine FRA Doublet Louisiane du Chateau Vignol AOC Bordeaux Blanc,Белое,Франция,Bordeaux,Semillon,18.90,149,Белое текстурное сухое,Сухое/не указано,3,3,0,3,Нет,Нет,80%,2.1,OK
+01 wine FRA Jacquart AOC Champagne Mosaique Brut 0.375,Игристое,Франция,Champagne,Chardonnay,39.00,227,Игристое сухое Brut/Extra Dry,Сухое,2,5,0,3,Да,Нет,93%,7.3,OK
+01 wine FRA Jacquart AOC Champagne Mosaique Brut GB,Игристое,Франция,Champagne,Chardonnay,79.00,120,Игристое сухое Brut/Extra Dry,Сухое,2,5,0,3,Да,Нет,93%,3.9,OK
+01 wine FRA Jacquart AOC Champagne Mosaique Rose,Игристое,Франция,Champagne,Chardonnay,84.00,109,Игристое rosé Brut/Sec,Сухое,2,5,0,3,Да,Нет,93%,2.3,OK
+01 wine FRA Jacquart AOC Champagne Mosaique Rose GB,Игристое,Франция,Champagne,Chardonnay,89.00,138,Игристое rosé Brut/Sec,Сухое,2,5,0,3,Да,Нет,93%,3.4,OK
+01 wine FRA Lassagne Chateau Des Arnauds AOC Bordeaux,Красное,Франция,Bordeaux,Merlot,17.90,133,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,3.1,OK
+01 wine FRA Lassagne Chateau Des Landes AOC Bordeaux Blanc,Белое,Франция,Bordeaux,Sauvignon Blanc,17.90,163,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,0.5,OK
+01 wine FRA Lassagne Chateau Des Landes AOC Lussac Saint-Emilion Tradition,Красное,Франция,Lussac Saint Emilion,Merlot,22.90,163,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,7.1,OK
+01 wine FRA Paul Mas Reserve IGP Pays d'Oc Secret d'Assemblage,Белое,Франция,Languedoc Roussillon,Chardonnay,18.90,248,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,30.6,OK
+01 wine FRA Paul Mas Reserve IGP Pays d'Oc Syrah Nicole Vineyard,Красное,Франция,Languedoc Roussillon,Syrah,19.90,100,Красное структурное танинное,Сухое/не указано,4,4,4,3,Нет,Нет,82%,9.4,OK
+01 wine FRA Trocard AOC Bordeaux,Красное,Франция,Bordeaux,Merlot,19.90,130,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,12.6,OK
+01 wine FRA Trocard AOC Bordeaux Blanc,Белое,Франция,Bordeaux,Semillon,19.90,234,Белое текстурное сухое,Сухое/не указано,3,3,0,3,Нет,Нет,80%,24.2,OK
+01 wine FRA Trocard AOC Bordeaux Rose,Розовое,Франция,Bordeaux,Cabernet Franc,19.90,113,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,7.9,OK
+01 wine FRA Trocard AOC Bordeaux Superieur Chateau les Charmettes,Красное,Франция,Bordeaux,Merlot,19.90,368,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,22.6,OK
+01 wine FRA Trocard AOC Bordeaux Superieur Chateau Trocard,Красное,Франция,Bordeaux,Merlot,19.90,411,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,20.8,OK
+01 wine FRA Trocard AOC Lalande de Pomerol Chateau la Croix Bellevue,Красное,Франция,Lalande de Pomerol,Merlot,34.00,195,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,17.9,OK
+01 wine FRA Trocard AOC Saint-Emilion Grand Cru Chateau Franc la Rose,Красное,Франция,Saint Emilion,Merlot,39.90,187,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,5.0,OK
+01 wine FRA Villebois AOC Pouilly-Fume,Белое,Франция,Pouilly Fume,Sauvignon Blanc,39.50,382,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,25.8,OK
+01 wine FRA Villebois AOC Pouilly-Fume 0.375,Белое,Франция,Pouilly Fume,Sauvignon Blanc,24.50,270,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,7.6,OK
+01 wine FRA Villebois AOC Sancerre Blanc,Белое,Франция,Sancerre,Sauvignon Blanc,44.00,226,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,26.3,OK
+01 wine FRA Villebois AOC Sancerre Blanc 0.375,Белое,Франция,Sancerre,Sauvignon Blanc,24.50,253,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,17.4,OK
+01 wine FRA Wolfberger AOC Alsace Pinot Gris 0.375,Белое,Франция,Elzas,Pinot Gris,14.90,165,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,9.2,OK
+01 wine GEO Rtvelisi Alazani Valley white semi sweet,Белое,Грузия,Alazani Valley,Rkatsiteli,11.90,195,Белое полусладкое/сладкое,Полусладкое/сладкое,3,4,0,4,Нет,Нет,95%,53.2,OK
+01 wine ITA Bortolomiol MIOL DOC Prosecco Treviso Frizzante Spago,Игристое,Италия,Veneto,Glera,19.90,166,Игристое rosé Brut/Sec,Сухое,2,5,0,3,Да,Нет,93%,41.4,OK
+01 wine ITA Camillo IGT Lu Funare Rosso,Красное,Италия,Abruzzo,Montepulciano,21.90,197,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,33.7,OK
+01 wine ITA Carpineto DOCG Chianti Castaldo,Красное,Италия,Toscana,Sangiovese,19.90,112,Красное гастрономичное высококислотное,Сухое,3,5,3,3,Нет,Нет,93%,13.1,OK
+01 wine ITA Collosorbo DOC Rosso di Montalcino,Красное,Италия,Toscana,Sangiovese,29.90,101,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,17.6,OK
+01 wine ITA Collosorbo DOCG Brunello di Montalcino,Красное,Италия,Toscana,Sangiovese,59.00,167,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,28.7,OK
+01 wine ITA Contini DOC Cannonau di Sardegna Riserva Inu,Красное,Италия,Sardinia,Cannonau,29.00,149,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,0.0,OK
+01 wine ITA Contini DOC Cannonau di Sardegna Sartiglia,Красное,Италия,Sardinia,Cannonau,24.00,113,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,1.3,OK
+01 wine ITA Contini IGT Tharros Rosso Maluentu,Красное,Италия,Sardinia,Nieddera,24.00,150,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,1.8,OK
+01 wine ITA Demarie DOC Langhe Dolcetto,Красное,Италия,Langhe,Dolcetto,19.90,115,Красное полусладкое/сладкое,Полусладкое/сладкое,3,3,2,4,Нет,Нет,95%,7.9,OK
+01 wine ITA Demarie DOCG Moscato dAsti,Белое,Италия,Moscato dAsti,Moscato Bianco,24.90,145,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,12.9,OK
+01 wine ITA Girolamo IGT Puglia Primitivo Pizzo Rosso,Красное,Италия,Puglia,Primitivo,22.90,102,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,27.7,OK
+01 wine ITA Girolamo IGT Puglia Rosso Barriques 12,Красное,Италия,Puglia,Primitivo,22.90,105,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,2.9,OK
+01 wine ITA Girolamo IGT Puglia Rosso Barriques 24,Красное,Италия,Puglia,Primitivo,27.90,110,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,0.2,OK
+01 wine ITA Girolamo IGT Puglia Rosso Barriques 6,Красное,Италия,Puglia,Primitivo,18.90,192,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,14.7,OK
+01 wine ITA Girolamo Monte dei Cocci IGT Puglia Primitivo Appasiamento,Красное,Италия,Puglia,Primitivo,18.90,105,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,21.3,OK
+01 wine ITA Kaltern DOC Sudtirol - Alto Adge Chardonnay,Белое,Италия,Alto Adige,Chardonnay,19.90,133,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,3.6,OK
+01 wine ITA Kaltern DOC Sudtirol - Alto Adge Gewürztraminer,Белое,Италия,Alto Adige,Gewurztraminer,22.90,145,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,10.5,OK
+01 wine ITA Kaltern DOC Sudtirol - Alto Adge Kalterersee Classico Superiore,Красное,Италия,Alto Adige,Schiava,19.90,103,Красное лёгкое/среднее,Сухое/не указано,2,4,2,3,Нет,Нет,84%,6.3,OK
+01 wine ITA Kaltern DOC Sudtirol - Alto Adge Lagrein,Красное,Италия,Alto Adige,Lagrein,22.90,116,Красное гастрономичное высококислотное,Не определено,3,3,3,3,Нет,Нет,60%,0.7,CHECK
+01 wine ITA Kaltern DOC Sudtirol - Alto Adge Merlot-Cabernet,Красное,Италия,Alto Adige,Cabernet Sauvignon,22.90,118,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,12.1,OK
+01 wine ITA Kaltern DOC Sudtirol - Alto Adge Moscato giallo,Белое,Италия,Alto Adige,Moscato Giallo,19.90,179,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,10.0,OK
+01 wine ITA Kaltern DOC Sudtirol - Alto Adge Pinot Bianco,Белое,Италия,Alto Adige,Pinot Blanc,19.90,103,Белое текстурное сухое,Сухое/не указано,3,3,0,3,Нет,Нет,80%,1.0,OK
+01 wine ITA Kaltern DOC Sudtirol - Alto Adge Sauvignon,Белое,Италия,Alto Adige,Sauvignon Blanc,22.90,144,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,18.7,OK
+01 wine ITA Mottura Villa DOC Primitivo di Manduria,Красное,Италия,Puglia,Primitivo,19.90,153,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,36.9,OK
+01 wine ITA Mottura Villa IGT Salento Fiano,Белое,Италия,Puglia,Fiano,16.90,121,Белое текстурное сухое,Сухое/не указано,3,3,0,3,Нет,Нет,80%,5.8,OK
+01 wine ITA Mottura Villa IGT Salento Negroamaro,Красное,Италия,Puglia,Negroamaro,16.90,121,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,18.2,OK
+01 wine ITA Mottura Villa IGT Salento Primitivo,Красное,Италия,Puglia,Primitivo,16.90,230,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,46.7,OK
+01 wine ITA Negrar DOC Custoza,Белое,Италия,Veneto,Garganega,15.00,126,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,30.8,OK
+01 wine ITA Povero DOC Piemont Barbera Pense,Красное,Италия,Piemont,Nebbiolo,24.00,274,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,32.1,OK
+01 wine ITA Povero DOCG Barolo Priore,Красное,Италия,Barolo,Nebbiolo,44.00,258,Красное структурное танинное,Сухое,4,5,5,4,Нет,Нет,95%,21.6,OK
+01 wine ITA Tinazzi Ca de Rocchi DOCG Amarone della Valpolicella La Bastia,Красное,Италия,Veneto,Corvina,49.00,267,Красное насыщенное мягкое,Сухое,5,3,3,4,Нет,Нет,92%,34.5,OK
+01 wine ITA Tinazzi Feudo Groce DOC Primitivo di Manduria Byzantium,Красное,Италия,Puglia,Primitivo,24.00,277,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,34.8,OK
+01 wine ITA Tinazzi Feudo Groce IGT Puglia Aglianico,Красное,Италия,Puglia,Aglianico,22.00,175,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,21.8,OK
+01 wine ITA Tinazzi Feudo Groce IGT Puglia Malvasia Bianca Alea,Белое,Италия,Puglia,Malvasia,15.90,158,Белое текстурное сухое,Сухое/не указано,3,3,0,3,Нет,Нет,80%,14.5,OK
+01 wine ITA Tinazzi Feudo Groce IGT Salento Negroamaro Megale,Красное,Италия,Puglia,Negroamaro,16.90,115,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,38.2,OK
+01 wine ITA Tinazzi Feudo Groce IGT Salento Negroamaro Rosato Amarose,Розовое,Италия,Puglia,Negroamaro,16.90,133,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,44.5,OK
+01 wine ITA Tinazzi Feudo Groce IGT Salento Rosso Freddo,Красное,Италия,Puglia,Negroamaro,17.90,151,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,54.0,OK
+01 wine ITA Tinazzi Generation DOC Primitivo di Manduria F79,Красное,Италия,Puglia,Primitivo,54.00,183,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,29.0,OK
+01 wine ITA Tinazzi Generation DOC Valpolicella Ripasso Superiore G77,Красное,Италия,Veneto,Corvina,69.00,169,Красное насыщенное мягкое,Сухое,4,3,3,3,Нет,Нет,90%,13.1,OK
+01 wine ITA Tinazzi Generation IGT Puglia Rosso Torreserro,Красное,Италия,Puglia,Primitivo,49.00,209,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,10.8,OK
+01 wine ITA Tinazzi Generation IGT Verona Rosso Salvego,Красное,Италия,Veneto,Corvina,49.00,182,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,17.1,OK
+01 wine SPA GB Beronia DOP Rioja Graciano,Красное,Испания,Rioja,Graciano,22.90,128,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,15.3,OK
+01 wine SPA GB DOP Jerez-Xeres-Sherry Tio Pepe,Белое,Испания,Jerez,Palomino Fino,23.90,306,Креплёное сухое (Fino/Manzanilla),Сухое,2,5,0,3,Нет,Да,98%,26.6,OK
+wine ARG Sogrape Finca Flichman Estate Malbec,Красное,Аргентина,Mendoza,Malbec,19.90,213,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,36.9,OK
+wine ARG Sogrape Finca Flichman Reserva Malbec,Красное,Аргентина,Mendoza,Malbec,24.90,189,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,34.3,OK
+wine ARG Sogrape Finca Flichman Tanguero Chardonnay,Белое,Аргентина,Mendoza,Chardonnay,19.90,93,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,37.9,OK
+wine ARG Sogrape Finca Flichman Tanguero Malbec,Красное,Аргентина,Mendoza,Malbec,19.90,201,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,41.4,OK
+wine CHL Aroma Cabernet Sauvignon,Красное,Чили,Maule Valley,Cabernet Sauvignon,13.90,527,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,83.3,OK
+wine CHL Aroma Carmenere,Красное,Чили,Maule Valley,Carmenere,13.90,258,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,66.4,OK
+wine CHL Aroma Chardonnay,Белое,Чили,Maule Valley,Chardonnay,13.90,942,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,82.5,OK
+wine CHL Aroma Merlot,Красное,Чили,Maule Valley,Merlot,13.90,178,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,68.8,OK
+wine CHL Aroma Reserve Cabernet Sauvignon,Красное,Чили,Maule Valley,Cabernet Sauvignon,15.90,277,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,72.2,OK
+wine CHL Aroma Reserve Carmenere,Красное,Чили,Maule Valley,Carmenere,14.90,144,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,50.3,OK
+wine CHL Aroma Reserve Chardonnay,Белое,Чили,Maule Valley,Chardonnay,14.90,200,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,40.3,OK
+wine CHL Aroma Reserve Merlot,Красное,Чили,Maule Valley,Merlot,15.90,201,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,63.8,OK
+wine CHL Aroma Reserve Syrah,Красное,Чили,Maule Valley,Syrah,15.90,255,Красное структурное танинное,Сухое/не указано,4,4,4,3,Нет,Нет,82%,66.7,OK
+wine CHL Aroma Sauvignon Blanc,Белое,Чили,Maule Valley,Sauvignon Blanc,13.90,1173,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,93.4,OK
+wine CHL Aroma Syrah Rose,Розовое,Чили,Maule Valley,Syrah,13.90,658,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,90.5,OK
+wine CHL Aroma Viognier,Белое,Чили,Maule Valley,Viognier,13.90,386,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,79.6,OK
+wine CHL Sogrape Chateau Los Boldos Grande Reserve Carmenere,Красное,Чили,Cachapoal Valley,Carmenere,24.90,203,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,48.5,OK
+wine CHL Sogrape Chateau Los Boldos Tradition Reserve Cabernet Sauvignon,Красное,Чили,Cachapoal Valley,Cabernet Sauvignon,19.90,152,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,24.8,OK
+wine CHL Sogrape Chateau Los Boldos Tradition Reserve Carmenere,Красное,Чили,Cachapoal Valley,Carmenere,19.90,226,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,35.3,OK
+wine CHL Sogrape Chateau Los Boldos Tradition Reserve Chardonnay,Белое,Чили,Cachapoal Valley,Chardonnay,19.90,142,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,30.0,OK
+wine CHL Sogrape Chateau Los Boldos Tradition Reserve Sauvignon Blanc,Белое,Чили,Cachapoal Valley,Sauvignon Blanc,19.90,93,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,26.9,OK
+wine FRA Borderie Chateau Les Combes AOC Bordeaux Blanc,Белое,Франция,Bordeaux,Semillon,19.90,269,Белое текстурное сухое,Сухое/не указано,3,3,0,3,Нет,Нет,80%,65.6,OK
+wine FRA Borderie Chateau Les Combes AOC Bordeaux Blanc sweet,Белое,Франция,Bordeaux,Semillon,19.90,390,Белое полусладкое/сладкое,Полусладкое/сладкое,3,4,0,4,Нет,Нет,95%,56.7,OK
+wine FRA Borderie Chateau Les Combes AOC Bordeaux Rose,Розовое,Франция,Bordeaux,Merlot,19.90,196,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,65.9,OK
+wine FRA Borderie Chateau Les Combes AOC Bordeaux Superieur rouge,Красное,Франция,Bordeaux,Merlot,19.90,188,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,36.6,OK
+wine FRA Borderie Chateau Les Combes AOC Cremant de Bordeaux Brut,Игристое,Франция,Bordeaux,Sauvignon Blanc,28.90,229,Игристое сухое Brut/Extra Dry,Сухое,2,5,0,3,Да,Нет,93%,33.2,OK
+wine FRA Borderie Chateau Les Combes AOC Lussac-Saint-Emilion,Красное,Франция,Lussac Saint Emilion,Merlot,19.90,283,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,36.1,OK
+wine FRA Borderie Chateau Les Gravieres AOC Bordeaux Superieur,Красное,Франция,Bordeaux,Merlot,19.90,701,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,72.0,OK
+wine FRA Bougrier AOC Cabernet d-Anjou,Розовое,Франция,Loire Valley,Cabernet Franc,16.90,1423,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,70.4,OK
+wine FRA Bougrier AOC Muscadet Sevre et Maine,Белое,Франция,Loire Valley,Muscadet,17.90,181,Белое свежее высококислотное,Сухое,2,5,0,2,Нет,Нет,93%,44.3,OK
+wine FRA Bougrier AOC Rose d-Anjou,Розовое,Франция,Loire Valley,Grolleau,16.90,1853,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,77.5,OK
+wine FRA Bougrier AOC Vouvray Brut,Игристое,Франция,Loire Valley,Chenin Blanc,23.90,86,Игристое сухое Brut/Extra Dry,Сухое,2,5,0,3,Да,Нет,93%,16.6,OK
+wine FRA Bougrier VDF Chardonnay,Белое,Франция,Vin de France,Chardonnay,16.90,384,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,74.9,OK
+wine FRA Bougrier VDF Pinot noir,Красное,Франция,Vin de France,Pinot Noir,16.90,1273,Красное лёгкое/среднее,Сухое/не указано,2,4,2,3,Нет,Нет,84%,60.6,OK
+wine FRA Bougrier VDF Sauvignon blanc,Белое,Франция,Vin de France,Sauvignon Blanc,16.90,1489,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,75.9,OK
+wine FRA Cellier AOC Chateauneuf-du-Pape,Красное,Франция,Cotes du Rhone,Grenache,49.90,96,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,6.3,OK
+wine FRA Cellier AOC Cotes-du-Rhone Blanc,Белое,Франция,Cotes du Rhone,Viognier,19.90,159,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,27.7,OK
+wine FRA Cellier AOC Cotes-du-Rhone Cru - Cairanne,Красное,Франция,Cotes du Rhone,Grenache,29.90,99,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,11.6,OK
+wine FRA Cellier AOC Cotes-du-Rhone Cru - Gigondas,Красное,Франция,Cotes du Rhone,Grenache,39.90,103,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,5.0,OK
+wine FRA Cellier AOC Cotes-du-Rhone Rouge Grande Reserve,Красное,Франция,Cotes du Rhone,Grenache,22.90,68,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,20.5,OK
+wine FRA Cellier AOC Cotes-du-Rhone Rouge Vieilles Vignes,Красное,Франция,Cotes du Rhone,Grenache,19.90,171,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,23.2,OK
+wine FRA Cellier AOC Ventoux Rouge Reserve,Красное,Франция,Ventoux,Grenache,19.90,293,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,29.8,OK
+wine FRA Cellier IGP Mediterranee Blanc Chardonnay Viognier,Белое,Франция,Mediterranee,Chardonnay,19.90,278,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,31.1,OK
+wine FRA Cellier IGP Mediterranee Rose Herose,Розовое,Франция,Mediterranee,Grenache,22.90,198,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,16.8,OK
+wine FRA Cellier IGP Vaucluse Blanc Le Triporteur,Белое,Франция,Vaucluse,Vermentino,18.90,319,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,21.8,OK
+wine FRA Cellier IGP Vaucluse Rouge Grenache,Красное,Франция,Vaucluse,Grenache,18.90,229,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,3.9,OK
+wine FRA Cellier IGP Vaucluse Rouge Merlot,Красное,Франция,Vaucluse,Merlot,18.90,232,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,2.3,OK
+wine FRA Cellier IGP Vaucluse Rouge Syrah,Красное,Франция,Vaucluse,Syrah,18.90,220,Красное структурное танинное,Сухое/не указано,4,4,4,3,Нет,Нет,82%,4.7,OK
+wine FRA Colombier AOC Chablis,Белое,Франция,Chablis,Chardonnay,36.00,346,Белое свежее высококислотное,Сухое,2,5,0,2,Нет,Нет,93%,88.9,OK
+wine FRA Colombier AOC Chablis 0.375,Белое,Франция,Chablis,Chardonnay,18.90,262,Белое свежее высококислотное,Сухое,2,5,0,2,Нет,Нет,93%,58.5,OK
+wine FRA Colombier AOC Chablis 1er Cru Fourchaume,Белое,Франция,Chablis,Chardonnay,54.00,239,Белое свежее высококислотное,Сухое,2,5,0,2,Нет,Нет,93%,56.9,OK
+wine FRA Colombier AOC Chablis Grand Cru Bougros,Белое,Франция,Chablis,Chardonnay,84.00,128,Белое свежее высококислотное,Сухое,2,5,0,2,Нет,Нет,93%,32.4,OK
+wine FRA Doublet Chateau Vignol AOC Bordeaux,Красное,Франция,Bordeaux,Merlot,17.90,205,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,65.4,OK
+wine FRA Doublet Chateau Vignol AOC Bordeaux Blanc Doux,Белое,Франция,Bordeaux,Semillon,17.90,356,Белое полусладкое/сладкое,Полусладкое/сладкое,3,4,0,4,Нет,Нет,95%,36.9,OK
+wine FRA Doublet Chateau Vignol AOC Bordeaux Clairet,Розовое,Франция,Bordeaux,Merlot,17.90,329,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,43.5,OK
+wine FRA Doublet Chateau Vignol AOC Bordeaux Rose,Розовое,Франция,Bordeaux,Cabernet Franc,17.90,328,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,24.0,OK
+wine FRA Doublet Chateau Vignol AOC Bordeaux Superieur,Красное,Франция,Bordeaux,Cabernet Sauvignon,18.90,266,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,58.3,OK
+wine FRA Doublet Chateau Vignol AOC Entre-deux-Mers,Белое,Франция,Bordeaux,Sauvignon Blanc,18.90,370,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,19.7,OK
+wine FRA Doublet Louisiane du Chateau Vignol AOC Bordeaux Merlot,Красное,Франция,Bordeaux,Merlot,18.90,324,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,49.0,OK
+wine FRA Magrez AOC Bordeaux 12,Красное,Франция,Bordeaux,Merlot,18.90,588,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,18.9,OK
+wine FRA Magrez AOC Bordeaux Blanc 12,Белое,Франция,Bordeaux,Semillon,18.90,336,Белое текстурное сухое,Сухое/не указано,3,3,0,3,Нет,Нет,80%,55.4,OK
+wine FRA Magrez Bleu de Mer IGP Pays D-oc Blanc,Белое,Франция,Languedoc Roussillon,Sauvignon Blanc,19.90,221,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,71.2,OK
+wine FRA Magrez Bleu de Mer IGP Pays D-oc Rose,Розовое,Франция,Languedoc Roussillon,Grenache,19.90,455,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,45.1,OK
+wine FRA Magrez Bleu de Mer IGP Pays D-oc Rouge,Красное,Франция,Languedoc Roussillon,Cabernet Sauvignon,19.90,272,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,57.5,OK
+wine FRA Paul Mas Arrogant Frog IGP Pays d'Oc Cabernet Sauvignon - Merlot,Красное,Франция,Languedoc Roussillon,Cabernet Sauvignon,18.90,459,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,63.3,OK
+wine FRA Paul Mas Arrogant Frog IGP Pays d'Oc Chardonnay - Viognier,Белое,Франция,Languedoc Roussillon,Chardonnay,18.90,339,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,64.1,OK
+wine FRA Paul Mas Chateau Martinolles AOC Limoux Blanc,Белое,Франция,Languedoc Roussillon,Chardonnay,23.90,485,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,71.5,OK
+wine FRA Paul Mas Chateau Paul Mas AOC Languedoc Clos des Mures,Красное,Франция,Languedoc Roussillon,Mourvedre,26.90,331,Красное структурное танинное,Сухое/не указано,4,4,4,3,Нет,Нет,82%,45.9,OK
+wine FRA Paul Mas Clos Astelia IGP Terres de Midi Grand Vin,Красное,Франция,Languedoc Roussillon,Cabernet Sauvignon,58.00,209,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,30.0,OK
+wine FRA Paul Mas IGP Pays d'Oc Cabernet Sauvignon,Красное,Франция,Languedoc Roussillon,Cabernet Sauvignon,17.90,865,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,70.4,OK
+wine FRA Paul Mas IGP Pays d'Oc Chardonnay,Белое,Франция,Languedoc Roussillon,Chardonnay,17.90,496,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,88.1,OK
+wine FRA Paul Mas IGP Pays d'Oc Cote Mas Rose,Розовое,Франция,Languedoc Roussillon,Grenache,16.90,608,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,67.2,OK
+wine FRA Paul Mas IGP Pays d'Oc Cote Mas Sauvignon Blanc - Vermentino,Белое,Франция,Languedoc Roussillon,Sauvignon Blanc,16.90,579,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,80.7,OK
+wine FRA Paul Mas IGP Pays d'Oc Cote Mas Syrah - Grenache,Красное,Франция,Languedoc Roussillon,Syrah,16.90,582,Красное структурное танинное,Сухое/не указано,4,4,4,3,Нет,Нет,82%,73.3,OK
+wine FRA Paul Mas IGP Pays d'Oc Grenache,Красное,Франция,Languedoc Roussillon,Grenache,17.90,475,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,47.7,OK
+wine FRA Paul Mas IGP Pays d'Oc Merlot,Красное,Франция,Languedoc Roussillon,Merlot,17.90,784,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,74.1,OK
+wine FRA Paul Mas IGP Pays d'Oc Pinot Grigio,Белое,Франция,Languedoc Roussillon,Pinot Grigio,19.90,938,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,78.1,OK
+wine FRA Paul Mas IGP Pays d'Oc Sauvignon,Белое,Франция,Languedoc Roussillon,Sauvignon Blanc,17.90,715,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,83.1,OK
+wine FRA Paul Mas IGP Pays d'Oc Syrah,Красное,Франция,Languedoc Roussillon,Syrah,17.90,635,Красное структурное танинное,Сухое/не указано,4,4,4,3,Нет,Нет,82%,48.2,OK
+wine FRA Paul Mas IGP Pays d'Oc Viognier,Белое,Франция,Languedoc Roussillon,Viognier,17.90,381,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,58.0,OK
+wine FRA Paul Mas Reserve AOC Languedoc Blanc,Белое,Франция,Languedoc Roussillon,Vermentino,19.90,245,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,56.4,OK
+wine FRA Paul Mas Reserve IGP Pays d'Oc Malbec Gardemiel Vineyard,Красное,Франция,Languedoc Roussillon,Malbec,19.90,806,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,62.0,OK
+wine FRA Paul Mas Reserve IGP Pays d'Oc Marsanne La Forge Vineyard,Белое,Франция,Languedoc Roussillon,Marsanne,19.90,256,Белое текстурное сухое,Сухое/не указано,4,3,0,3,Нет,Нет,80%,54.6,OK
+wine FRA Paul Mas Reserve IGP Pays d'Oc Pinot Noir Gardemiel Vineyard,Красное,Франция,Languedoc Roussillon,Pinot Noir,19.90,773,Красное лёгкое/среднее,Сухое/не указано,2,4,2,3,Нет,Нет,84%,60.9,OK
+wine FRA Paul Mas Vignes de Nicole IGP Pays d'Oc Assemblage Blanc,Белое,Франция,Languedoc Roussillon,Sauvignon Blanc,19.90,305,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,63.5,OK
+wine FRA Paul Mas Vignes de Nicole IGP Pays d'Oc Cabernet Sauvignon - Merlot,Красное,Франция,Languedoc Roussillon,Merlot,19.90,757,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,68.6,OK
+wine FRA Paul Mas Vignes de Nicole IGP Pays d'Oc Cabernet Sauvignon - Syrah,Красное,Франция,Languedoc Roussillon,Cabernet Sauvignon,19.90,601,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,72.8,OK
+wine FRA Paul Mas Vignes de Nicole IGP Pays d'Oc Chardonnay - Viognier,Белое,Франция,Languedoc Roussillon,Chardonnay,19.90,484,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,70.9,OK
+wine FRA Veuve Moisans Sparkling blanc de blancs brut,Игристое,Франция,Loire Valley,Chardonnay,24.00,349,Игристое сухое Brut/Extra Dry,Сухое,2,5,0,3,Да,Нет,93%,79.9,OK
+wine FRA Veuve Moisans Sparkling rose dry,Игристое,Франция,Loire Valley,Cabernet Franc,24.00,523,Игристое rosé Brut/Sec,Сухое/полусухое,2,5,0,3,Да,Нет,93%,69.1,OK
+wine FRA Wolfberger AOC Alsace Gewurztraminer,Белое,Франция,Elzas,Gewurztraminer,23.90,536,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,44.0,OK
+wine FRA Wolfberger AOC Alsace Gewurztraminer 0.375,Белое,Франция,Elzas,Gewurztraminer,13.90,477,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,20.8,OK
+wine FRA Wolfberger AOC Alsace Gewurztraminer Grand Cru,Белое,Франция,Elzas,Gewurztraminer,29.90,410,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,14.7,OK
+wine FRA Wolfberger AOC Alsace Gewurztraminer Grand Cru 0.375,Белое,Франция,Elzas,Gewurztraminer,19.90,316,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,3.9,OK
+wine FRA Wolfberger AOC Alsace Muscat,Белое,Франция,Elzas,Muscat d’Alsace,19.90,405,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,41.1,OK
+wine FRA Wolfberger AOC Alsace Pinot Blanc,Белое,Франция,Elzas,Pinot Blanc,19.90,460,Белое текстурное сухое,Сухое/не указано,3,3,0,3,Нет,Нет,80%,29.2,OK
+wine FRA Wolfberger AOC Alsace Pinot Gris,Белое,Франция,Elzas,Pinot Gris,19.90,404,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,53.8,OK
+wine FRA Wolfberger AOC Alsace Riesling,Белое,Франция,Elzas,Riesling,22.90,230,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,47.4,OK
+wine FRA Wolfberger AOC Alsace Riesling 0.375,Белое,Франция,Elzas,Riesling,13.90,472,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,35.8,OK
+wine FRA Wolfberger AOC Alsace Riesling Grand Cru,Белое,Франция,Elzas,Riesling,29.90,378,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,50.9,OK
+wine FRA Wolfberger AOC Alsace Riesling Grand Cru 0.375,Белое,Франция,Elzas,Riesling,19.90,327,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,5.0,OK
+wine FRA Wolfberger AOC Cremant d-Alsace 0.375,Игристое,Франция,Elzas,Pinot Blanc,16.90,400,Игристое сухое Brut/Extra Dry,Сухое,2,5,0,3,Да,Нет,93%,24.2,OK
+wine FRA Wolfberger AOC Cremant d-Alsace Brut,Игристое,Франция,Elzas,Pinot Blanc,25.90,219,Игристое сухое Brut/Extra Dry,Сухое,2,5,0,3,Да,Нет,93%,52.2,OK
+wine FRA Wolfberger AOC Cremant d-Alsace ICE Rose Demi-Sec,Игристое,Франция,Elzas,Pinot Noir,25.90,348,Игристое полусладкое/сладкое,Полусладкое/сладкое,2,5,0,3,Да,Нет,93%,40.3,OK
+wine FRA Wolfberger AOC Cremant d-Alsace Riesling Brut,Игристое,Франция,Elzas,Riesling,25.90,152,Игристое сухое Brut/Extra Dry,Сухое,2,5,0,3,Да,Нет,93%,36.4,OK
+wine FRA Wolfberger AOC Cremant d-Alsace Rose Brut 0.375,Игристое,Франция,Elzas,Pinot Noir,17.90,296,Игристое rosé Brut/Sec,Сухое,2,5,0,3,Да,Нет,93%,5.8,OK
+wine GEO Durujuli Alazani Valley red semi sweet,Красное,Грузия,Alazani Valley,Saperavi,13.90,1017,Красное полусладкое/сладкое,Полусладкое/сладкое,3,3,2,4,Нет,Нет,95%,89.1,OK
+wine GEO Durujuli Alazani Valley white semi sweet,Белое,Грузия,Alazani Valley,Rkatsiteli,12.90,452,Белое полусладкое/сладкое,Полусладкое/сладкое,3,4,0,4,Нет,Нет,95%,78.6,OK
+wine GEO Durujuli Aleksandrouli red dry,Красное,Грузия,Aleksandrouli,Aleksandrouli,14.90,276,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,35.3,OK
+wine GEO Durujuli Kindzmarauli red semi sweet,Красное,Грузия,Kindzmarauli,Saperavi,17.90,706,Красное полусладкое/сладкое,Полусладкое/сладкое,3,3,2,4,Нет,Нет,95%,78.8,OK
+wine GEO Durujuli Kisi white semi sweet,Белое,Грузия,Kisi,Kisi,14.90,756,Белое полусладкое/сладкое,Полусладкое/сладкое,3,4,0,4,Нет,Нет,95%,38.7,OK
+wine GEO Durujuli Rkatsiteli white dry,Белое,Грузия,Rkatsiteli,Rkatsiteli,13.90,982,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,71.7,OK
+wine GEO Durujuli Rose semi sweet,Розовое,Грузия,Saperavi,Saperavi,14.90,1122,Rosé полусладкое/сладкое,Полусладкое/сладкое,2,4,0,4,Нет,Нет,95%,81.7,OK
+wine GEO Durujuli Saperavi red dry,Красное,Грузия,Saperavi,Saperavi,14.90,833,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,79.4,OK
+wine GEO KGM Alazani Valley red semi sweet,Красное,Грузия,Alazani Valley,Saperavi,13.90,3292,Красное полусладкое/сладкое,Полусладкое/сладкое,3,3,2,4,Нет,Нет,95%,99.4,OK
+wine GEO KGM Alazani Valley white semi sweet,Белое,Грузия,Alazani Valley,Rkatsiteli,13.90,1429,Белое полусладкое/сладкое,Полусладкое/сладкое,3,4,0,4,Нет,Нет,95%,94.7,OK
+wine GEO KGM PDO Akhasheni red semi sweet,Красное,Грузия,Akhasheni,Saperavi,16.90,3074,Красное полусладкое/сладкое,Полусладкое/сладкое,3,3,2,4,Нет,Нет,95%,95.5,OK
+wine GEO KGM PDO Khvanchkara red semi sweet,Красное,Грузия,Khvanchkara,Aleksandrouli,29.00,1631,Красное полусладкое/сладкое,Полусладкое/сладкое,3,3,2,4,Нет,Нет,95%,93.1,OK
+wine GEO KGM PDO Kindzmarauli red semi sweet,Красное,Грузия,Kindzmarauli,Saperavi,18.90,2735,Красное полусладкое/сладкое,Полусладкое/сладкое,3,3,2,4,Нет,Нет,95%,99.2,OK
+wine GEO KGM PDO Tvishi white semi sweet,Белое,Грузия,Tvishi,Tsolikauri,17.90,1072,Белое полусладкое/сладкое,Полусладкое/сладкое,3,4,0,4,Нет,Нет,95%,89.7,OK
+wine GEO KGM Pirosmani red semi dry,Красное,Грузия,Pirosmani,Saperavi,14.90,1422,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,95.7,OK
+wine GEO KGM Saperavi red dry,Красное,Грузия,Saperavi,Saperavi,15.90,1172,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,93.6,OK
+wine GEO Koncho Alazani Valley red semi sweet,Красное,Грузия,Alazani Valley,Saperavi,14.90,2115,Красное полусладкое/сладкое,Полусладкое/сладкое,3,3,2,4,Нет,Нет,95%,98.1,OK
+wine GEO Koncho Aleksandrouli red dry,Красное,Грузия,Aleksandrouli,Aleksandrouli,16.90,761,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,69.3,OK
+wine GEO Koncho Nino Muscat rose semi sweet,Розовое,Грузия,Saperavi,Saperavi,15.90,1622,Rosé полусладкое/сладкое,Полусладкое/сладкое,2,4,0,4,Нет,Нет,95%,95.2,OK
+wine GEO Koncho PDO Kindzmarauli red semi sweet,Красное,Грузия,Kindzmarauli,Saperavi,17.90,2664,Красное полусладкое/сладкое,Полусладкое/сладкое,3,3,2,4,Нет,Нет,95%,98.9,OK
+wine GEO Koncho PDO Mukuzani red dry,Красное,Грузия,Mukuzani,Saperavi,19.90,856,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,86.0,OK
+wine GEO Koncho PDO Tsinandali white dry,Белое,Грузия,Tsinandali,Rkatsiteli,15.90,1491,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,94.1,OK
+wine GEO Koncho Pirosmani red semi dry,Красное,Грузия,Pirosmani,Saperavi,15.90,2048,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,97.3,OK
+wine GEO Koncho Pirosmani white semi dry,Белое,Грузия,Pirosmani,Rkatsiteli,15.90,1910,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,96.8,OK
+wine GEO Koncho Saperavi Premium red semi dry,Красное,Грузия,Saperavi,Saperavi,18.90,1204,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,91.5,OK
+wine GEO Koncho Saperavi Qvevri red dry,Красное,Грузия,Saperavi,Saperavi,19.90,838,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,84.4,OK
+wine ITA Bortolomiol DOCG Prosecco Valdobbiadene Superiore MAIOR Dry,Игристое,Италия,Veneto,Glera,26.90,116,Игристое rosé Brut/Sec,Сухое/полусухое,2,5,0,3,Да,Нет,93%,34.0,OK
+wine ITA Bortolomiol DOCG Prosecco Valdobbiadene Superiore PRIOR Brut,Игристое,Италия,Veneto,Glera,26.90,150,Игристое rosé Brut/Sec,Сухое,2,5,0,3,Да,Нет,93%,31.9,OK
+wine ITA Bortolomiol DOCG Prosecco Valdobbiadene Superiore SENIOR Extra Dry,Игристое,Италия,Veneto,Glera,26.90,233,Игристое rosé Brut/Sec,Сухое/полусухое,2,5,0,3,Да,Нет,93%,64.9,OK
+wine ITA Bortolomiol DOCG Prosecco Valdobbiadene Superiore SUAVIS Demi-Sec,Игристое,Италия,Veneto,Glera,26.90,153,Игристое полусладкое/сладкое,Полусладкое/сладкое,2,5,0,3,Да,Нет,93%,56.2,OK
+wine ITA Bortolomiol MIOL DOC Prosecco Treviso Brut,Игристое,Италия,Veneto,Glera,22.90,224,Игристое rosé Brut/Sec,Сухое,2,5,0,3,Да,Нет,93%,74.4,OK
+wine ITA Bortolomiol MIOL DOC Prosecco Treviso Extra Dry,Игристое,Италия,Veneto,Glera,22.90,208,Игристое rosé Brut/Sec,Сухое/полусухое,2,5,0,3,Да,Нет,93%,55.6,OK
+wine ITA Bortolomiol MIOL DOC Prosecco Treviso Rose Brut,Игристое,Италия,Veneto,Glera,22.90,232,Игристое rosé Brut/Sec,Сухое,2,5,0,3,Да,Нет,93%,69.6,OK
+wine ITA Bortolomiol MIOL Sparkling ECRU CUVEE Extra Dry,Игристое,Италия,Veneto,Chardonnay,19.90,178,Игристое сухое Brut/Extra Dry,Сухое/полусухое,2,5,0,3,Да,Нет,93%,50.9,OK
+wine ITA Bortolomiol Sparkling Rose Brut Filanda,Игристое,Италия,Veneto,Pinot Noir,26.90,174,Игристое rosé Brut/Sec,Сухое,2,5,0,3,Да,Нет,93%,51.4,OK
+wine ITA Camillo DOC Cerasuolo d-Abruzzo,Розовое,Италия,Abruzzo,Montepulciano,15.90,707,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,87.0,OK
+wine ITA Camillo DOC Montepulciano d-Abruzzo Pietraja,Красное,Италия,Abruzzo,Montepulciano,15.90,745,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,82.0,OK
+wine ITA Camillo DOC Montepulciano d-Abruzzo Riserva Imperium,Красное,Италия,Abruzzo,Montepulciano,23.90,484,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,70.1,OK
+wine ITA Camillo DOC Montepulciano d-Abruzzo Statio,Красное,Италия,Abruzzo,Montepulciano,19.90,477,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,52.5,OK
+wine ITA Camillo DOC Trebbiano d-Abruzzo,Белое,Италия,Abruzzo,Trebbiano d’Abruzzo,15.90,962,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,82.3,OK
+wine ITA Camillo IGT Passerina,Красное,Италия,Abruzzo,Passerina,15.90,493,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,57.7,OK
+wine ITA Camillo IGT Pecorino,Белое,Италия,Abruzzo,Pecorino,15.90,502,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,59.8,OK
+wine ITA Camillo IGT Triptychum Rosso,Красное,Италия,Abruzzo,Montepulciano,23.90,431,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,63.0,OK
+wine ITA Carpineto DOC Rosso di Montepulciano,Красное,Италия,Toscana,Sangiovese,19.90,133,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,49.8,OK
+wine ITA Carpineto DOCG Chianti Castaldo Riserva,Красное,Италия,Toscana,Sangiovese,22.90,547,Красное гастрономичное высококислотное,Сухое,3,5,3,3,Нет,Нет,93%,72.5,OK
+wine ITA Carpineto DOCG Chianti Castaldo Riserva 0.375,Красное,Италия,Toscana,Sangiovese,14.90,310,Красное гастрономичное высококислотное,Сухое,3,5,3,3,Нет,Нет,93%,31.1,OK
+wine ITA Carpineto DOCG Chianti Classico,Красное,Италия,Chianti,Sangiovese,25.90,506,Красное гастрономичное высококислотное,Сухое,3,5,3,3,Нет,Нет,93%,62.2,OK
+wine ITA Carpineto DOCG Chianti Classico 0.375,Красное,Италия,Chianti,Sangiovese,14.90,367,Красное гастрономичное высококислотное,Сухое,3,5,3,3,Нет,Нет,93%,33.5,OK
+wine ITA Carpineto DOCG Chianti Classico Gran Selezione,Красное,Италия,Chianti,Sangiovese,64.00,224,Красное гастрономичное высококислотное,Сухое,3,5,3,3,Нет,Нет,93%,15.3,OK
+wine ITA Carpineto DOCG Chianti Classico Riserva,Красное,Италия,Chianti,Sangiovese,36.90,705,Красное гастрономичное высококислотное,Сухое,3,5,3,3,Нет,Нет,93%,61.7,OK
+wine ITA Carpineto IGT Toscana Bianco Dogajolo,Белое,Италия,Toscana,Chardonnay,19.90,1511,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,88.3,OK
+wine ITA Carpineto IGT Toscana Rosso Dogajolo,Красное,Италия,Toscana,Sangiovese,19.90,667,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,84.6,OK
+wine ITA Giannicola di Carlo Appasite IGP Terre di Chieti Rosso,Красное,Италия,Abruzzo,Montepulciano,22.90,221,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,46.1,OK
+wine ITA Giannicola di Carlo Recastro IGP Colli Aprutini Primitivo,Красное,Италия,Abruzzo,Primitivo,19.90,210,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,50.6,OK
+wine ITA Monte DOC Bardolino,Красное,Италия,Bardolino,Corvina,17.90,367,Красное лёгкое/среднее,Сухое,2,4,2,3,Нет,Нет,88%,49.6,OK
+wine ITA Monte DOC Bardolino 0.375,Красное,Италия,Bardolino,Corvina,11.90,164,Красное лёгкое/среднее,Сухое,2,4,2,3,Нет,Нет,88%,77.3,OK
+wine ITA Monte DOC Bardolino Chiaretto,Розовое,Италия,Bardolino,Corvina,17.90,664,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,39.5,OK
+wine ITA Monte DOC Bardolino Chiaretto 0.375,Розовое,Италия,Bardolino,Corvina,11.90,118,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,47.2,OK
+wine ITA Monte DOC Custoza,Белое,Италия,Custoza,Garganega,17.90,399,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,11.3,OK
+wine ITA Monte DOC Custoza 0.375,Белое,Италия,Custoza,Garganega,11.90,378,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,43.7,OK
+wine ITA Monte DOC Custoza Superiore Ca del Magro,Белое,Италия,Custoza,Garganega,24.90,171,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,25.3,OK
+wine ITA Monte DOC Lugana,Белое,Италия,Lugana,Trebbiano di Lugana,24.90,269,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,54.3,OK
+wine ITA Monte DOC Pinot Grigio delle Venezie,Белое,Италия,Veneto,Pinot Grigio,18.90,231,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,86.8,OK
+wine ITA Monte DOC Soave Classico,Белое,Италия,Soave,Garganega,18.90,498,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,10.0,OK
+wine ITA Monte DOC Valpolicella Classico,Красное,Италия,Valpolicella,Corvina,21.90,335,Красное лёгкое/среднее,Сухое,2,4,2,3,Нет,Нет,88%,15.3,OK
+wine ITA Monte DOC Valpolicella Classico 0.375,Красное,Италия,Valpolicella,Corvina,14.90,132,Красное лёгкое/среднее,Сухое,2,4,2,3,Нет,Нет,88%,22.9,OK
+wine ITA Monte DOC Valpolicella Ripasso Classico Superiore 0.375,Красное,Италия,Valpolicella,Corvina,17.90,369,Красное насыщенное мягкое,Сухое,4,3,3,3,Нет,Нет,90%,50.1,OK
+wine ITA Monte DOC Valpolicella Ripasso Classico Superiore Lena di Mezzo,Красное,Италия,Valpolicella,Corvina,24.90,111,Красное насыщенное мягкое,Сухое,4,3,3,3,Нет,Нет,90%,59.1,OK
+wine ITA Monte DOCG Amarone della Valpolicella Classico 0.375,Красное,Италия,Amarone della Valpolicella,Corvina,29.90,298,Красное насыщенное мягкое,Сухое,5,3,3,4,Нет,Нет,92%,6.3,OK
+wine ITA Monte DOCG Amarone della Valpolicella Classico Lena di Mezzo,Красное,Италия,Amarone della Valpolicella,Corvina,44.00,170,Красное насыщенное мягкое,Сухое,5,3,3,4,Нет,Нет,92%,37.7,OK
+wine ITA Monte DOCG Amarone della Valpolicella Classico Riserva Scarnocchio Lena di Mezzo,Красное,Италия,Amarone della Valpolicella,Corvina,59.00,130,Красное насыщенное мягкое,Сухое,5,3,3,4,Нет,Нет,92%,42.4,OK
+wine ITA Monte IGT Verona Corvina Casa Capitei Lena,Красное,Италия,Veneto,Corvina,19.90,194,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,73.8,OK
+wine ITA Ponte DOC Pinot Grigio delle Venezie,Белое,Италия,Veneto,Pinot Grigio,12.90,1798,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,93.9,OK
+wine ITA Ponte DOC Pinot Grigio delle Venezie Brut,Игристое,Италия,Veneto,Pinot Grigio,14.90,2848,Игристое сухое Brut/Extra Dry,Сухое,2,5,0,3,Да,Нет,93%,94.4,OK
+wine ITA Ponte DOC Pinot Grigio delle Venezie Rose,Белое,Италия,Veneto,Pinot Grigio,12.90,1168,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,96.3,OK
+wine ITA Ponte DOC Prosecco Rose Millesimato Brut,Игристое,Италия,Veneto,Glera,18.90,7788,Игристое rosé Brut/Sec,Сухое,2,5,0,3,Да,Нет,93%,100.0,OK
+wine ITA Ponte DOC Prosecco Rose Millesimato Brut 0.200,Игристое,Италия,Veneto,Glera,6.90,4020,Игристое rosé Brut/Sec,Сухое,2,5,0,3,Да,Нет,93%,98.6,OK
+wine ITA Ponte DOC Prosecco Treviso Extra Dry,Игристое,Италия,Veneto,Glera,18.90,7190,Игристое rosé Brut/Sec,Сухое/полусухое,2,5,0,3,Да,Нет,93%,99.7,OK
+wine ITA Ponte DOC Prosecco Treviso Extra Dry 0.200,Игристое,Италия,Veneto,Glera,6.90,3889,Игристое rosé Brut/Sec,Сухое/полусухое,2,5,0,3,Да,Нет,93%,96.5,OK
+wine ITA Ponte DOC Prosecco Treviso Extra Dry 0.375,Игристое,Италия,Veneto,Glera,9.90,2768,Игристое rosé Brut/Sec,Сухое/полусухое,2,5,0,3,Да,Нет,93%,98.4,OK
+wine ITA Ponte DOC Prosecco Treviso Millesimato Extra Dry,Игристое,Италия,Veneto,Glera,18.90,3116,Игристое rosé Brut/Sec,Сухое/полусухое,2,5,0,3,Да,Нет,93%,97.0,OK
+wine ITA Ponte DOCG Prosecco Conegliano Valdobbiadene Brut,Игристое,Италия,Veneto,Glera,19.90,1672,Игристое rosé Brut/Sec,Сухое,2,5,0,3,Да,Нет,93%,97.8,OK
+wine ITA Ponte IGT Veneto Chardonnay,Белое,Италия,Veneto,Chardonnay,12.90,1787,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,90.2,OK
+wine ITA Ponte IGT Veneto Merlot,Красное,Италия,Veneto,Merlot,12.90,2913,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,96.0,OK
+wine ITA Ponte Spumante Pinot-Chardonnay Brut,Игристое,Италия,Veneto,Pinot Blanc,14.90,2033,Игристое сухое Brut/Extra Dry,Сухое,2,5,0,3,Да,Нет,93%,94.9,OK
+wine ITA Povero DOC Langhe Cabane,Красное,Италия,Langhe,Cabernet Sauvignon,17.90,174,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,32.7,OK
+wine ITA Povero DOCG Barbaresco Batu,Красное,Италия,Barbaresco,Nebbiolo,36.00,249,Красное структурное танинное,Сухое,4,5,5,4,Нет,Нет,95%,28.2,OK
+wine ITA Povero DOCG Barbera d-Asti Contrada Maestra,Красное,Италия,Barbera dAsti,Barbera,15.90,239,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,80.4,OK
+wine ITA Povero DOCG Barbera d-Asti Marida,Красное,Италия,Barbera dAsti,Barbera,19.90,208,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,60.1,OK
+wine ITA Povero DOCG Moscato d-Asti Campo del Palio,Белое,Италия,Moscato dAsti,Moscato Bianco,18.90,281,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,73.6,OK
+wine ITA Povero Vino Spumante Aromatico Dolce rose Malvasia,Игристое,Италия,Piemont,Malvasia,17.90,238,Игристое полусладкое/сладкое,Полусладкое/сладкое,2,5,0,3,Да,Нет,93%,67.0,OK
+wine ITA Povero Vino Spumante Extra Dry blanco Belvive,Игристое,Италия,Piemont,Chardonnay,16.90,561,Игристое сухое Brut/Extra Dry,Сухое/полусухое,2,5,0,3,Да,Нет,93%,76.7,OK
+wine ITA Tinazzi Ca de Rocchi DOC Bardolino,Красное,Италия,Bardolino,Corvina,19.90,880,Красное лёгкое/среднее,Сухое,2,4,2,3,Нет,Нет,88%,82.8,OK
+wine ITA Tinazzi Ca de Rocchi DOC Bardolino Chiaretto Campo delle Rose,Розовое,Италия,Bardolino,Corvina,22.90,444,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,59.3,OK
+wine ITA Tinazzi Ca de Rocchi DOC Custoza,Белое,Италия,Custoza,Garganega,19.90,514,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,62.7,OK
+wine ITA Tinazzi Ca de Rocchi DOC Garda Bianco,Белое,Италия,Veneto,Garganega,19.90,325,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,67.5,OK
+wine ITA Tinazzi Ca de Rocchi DOC Pinot Grigio delle Venezie Ista,Белое,Италия,Veneto,Pinot Grigio,19.90,853,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,79.9,OK
+wine ITA Tinazzi Ca de Rocchi DOC Soave Classico,Белое,Италия,Soave,Garganega,19.90,514,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,84.1,OK
+wine ITA Tinazzi Ca de Rocchi DOC Valpolicella,Красное,Италия,Valpolicella,Corvina,24.90,372,Красное лёгкое/среднее,Сухое,2,4,2,3,Нет,Нет,88%,75.1,OK
+wine ITA Tinazzi Ca de Rocchi DOC Valpolicella Ripasso Superiore Montere,Красное,Италия,Valpolicella,Corvina,29.90,311,Красное насыщенное мягкое,Сухое,4,3,3,3,Нет,Нет,90%,65.1,OK
+wine ITA Tinazzi Ca de Rocchi IGT Veneto Merlot,Красное,Италия,Veneto,Merlot,19.90,905,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,81.2,OK
+wine ITA Tinazzi Ca de Rocchi IGT Veneto Merlot Prato del Faggio,Красное,Италия,Veneto,Merlot,22.90,523,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,74.6,OK
+wine ITA Tinazzi Ca de Rocchi IGT Verona Cabernet Sauvignon - Merlot Dugal,Красное,Италия,Veneto,Cabernet Sauvignon,22.90,736,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,78.3,OK
+wine ITA Tinazzi Ca de Rocchi IGT Verona Corvina Corve,Красное,Италия,Veneto,Corvina,19.90,1208,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,76.2,OK
+wine ITA Tinazzi Coresei DOC Pinot Grigio delle Venezie,Белое,Италия,Veneto,Pinot Grigio,16.90,459,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,91.0,OK
+wine ITA Tinazzi Coresei DOC Soave,Белое,Италия,Soave,Garganega,14.90,266,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,84.9,OK
+wine ITA Tinazzi Generation DOCG Amarone della Valpolicella Classico Riserva A50,Красное,Италия,Amarone della Valpolicella,Corvina,99.00,657,Красное насыщенное мягкое,Сухое,5,3,3,4,Нет,Нет,92%,48.0,OK
+wine ITA Tinazzi Tenuta Valleselle DOC Pieve San Vito Bardolino,Красное,Италия,Bardolino,Corvina,19.90,129,Красное лёгкое/среднее,Сухое,2,4,2,3,Нет,Нет,88%,43.0,OK
+wine ITA Tinazzi Tenuta Valleselle DOC Rovertondo Valpolicella Ripasso Superiore,Красное,Италия,Valpolicella,Corvina,34.90,192,Красное насыщенное мягкое,Сухое,4,3,3,3,Нет,Нет,90%,28.2,OK
+wine ITA Tinazzi Tenuta Valleselle DOCG Aureum Acinum Amarone della Valpolicella,Красное,Италия,Amarone della Valpolicella,Corvina,69.00,247,Красное насыщенное мягкое,Сухое,5,3,3,4,Нет,Нет,92%,19.2,OK
+wine ITA Tinazzi Tenuta Valleselle IGT Ripa Magna Corvina,Красное,Италия,Veneto,Corvina,19.90,125,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,42.4,OK
+wine ITA Tombacco DOC Biferno Rosso Riserva,Красное,Италия,Molise,Montepulciano,19.90,1162,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,79.1,OK
+wine ITA Tombacco DOC Primitivo di Manduria,Красное,Италия,Puglia,Primitivo,27.90,336,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,11.6,OK
+wine ITA Tombacco IGT Aglianico del Beneventano,Красное,Италия,Campania,Aglianico,19.90,773,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,68.3,OK
+wine ITA Tombacco IGT Puglia Rosso Azzurra,Красное,Италия,Puglia,Primitivo,27.90,909,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,25.0,OK
+wine ITA Tombacco IGT Terre Di Chieti Pecorino,Белое,Италия,Abruzzo,Pecorino,19.90,265,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,51.9,OK
+wine ITA Tombacco IGT Veneto Tai,Белое,Италия,Veneto,Tocai Friulano,19.90,400,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,41.4,OK
+wine ITA Vignamadre Kriya DOC Cerasuolo d'Abruzzo,Розовое,Италия,Abruzzo,Montepulciano,15.90,311,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,38.5,OK
+wine ITA Vignamadre Kriya DOC Montepulciano d'Abruzzo,Красное,Италия,Abruzzo,Montepulciano,15.90,218,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,39.3,OK
+wine ITA Vignamadre Kriya IGP Terre di Chieti Chardonnay,Белое,Италия,Abruzzo,Chardonnay,15.90,437,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,89.4,OK
+wine ITA Vignamadre Kriya IGP Terre di Chieti Pecorino,Белое,Италия,Abruzzo,Pecorino,15.90,253,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,51.7,OK
+wine ITA Vignamadre Kriya IGP Terre di Chieti Pinot Grigio,Белое,Италия,Abruzzo,Pinot Grigio,15.90,572,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,92.6,OK
+wine MDA Vartely Individo Feteasca & Rara Neagra,Красное,Молдова,Codru,Feteasca Neagra,14.90,400,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,64.3,OK
+wine MDA Vartely Individo Feteasca Regala & Riesling,Белое,Молдова,Codru,Feteasca Regala,14.90,270,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,64.6,OK
+wine MDA Vartely Individo Malbec & Syrah,Красное,Молдова,Codru,Rara Neagra,14.90,556,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,67.8,OK
+wine MDA Vartely Individo Pinot Gris & Chardonnay,Белое,Молдова,Codru,Pinot Gris,14.90,234,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,76.5,OK
+wine MDA Vartely Individo Traminer & Sauvignon Blanc,Белое,Молдова,Codru,Gewurztraminer,14.90,204,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,85.2,OK
+wine MDA Vartely Inspiro Feteasca Regala Sparkling Brut,Игристое,Молдова,Codru,Feteasca Regala,13.90,687,Игристое сухое Brut/Extra Dry,Сухое,2,5,0,3,Да,Нет,93%,87.8,OK
+wine MDA Vartely Inspiro Muscat Sparkling Dulce,Игристое,Молдова,Codru,Muscat Ottonel,13.90,1006,Игристое полусладкое/сладкое,Полусладкое/сладкое,2,5,0,3,Да,Нет,93%,85.7,OK
+wine MDA Vartely Inspiro Pinot Noir Sparkling Rose Sec,Игристое,Молдова,Codru,Pinot Noir,13.90,1220,Игристое rosé Brut/Sec,Сухое,2,5,0,3,Да,Нет,93%,83.9,OK
+wine MDA Vartely Totem Feteasca Neagra,Красное,Молдова,Codru,Feteasca Neagra,13.90,465,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,60.4,OK
+wine MDA Vartely Totem Rara Neagra,Красное,Молдова,Codru,Babeasca Neagra,13.90,470,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,57.2,OK
+wine MDA Vartely Totem Viorica,Белое,Молдова,Codru,Viorica,13.90,697,Белое ароматное,Сухое/не указано,2,4,0,5,Нет,Нет,80%,81.5,OK
+wine POR CSL Lisbonita Lisboa Branco,Белое,Португалия,Lisboa,Arinto,13.90,931,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,92.3,OK
+wine POR CSL Lisbonita Lisboa Rose,Розовое,Португалия,Lisboa,Camarate,13.90,923,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,86.2,OK
+wine POR CSL Lisbonita Lisboa Tinto,Красное,Португалия,Lisboa,Castelao,13.90,193,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,87.5,OK
+wine POR CSL Monte Perdido Alentejano Tinto,Красное,Португалия,Alentejo,Aragones,13.90,196,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,86.5,OK
+wine POR CSL Pluma DOC Vinho Verde Branco,Белое,Португалия,Vinho Verde,Loureiro,13.90,1171,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,90.7,OK
+wine POR CSL Pluma DOC Vinho Verde Rose,Розовое,Португалия,Vinho Verde,Espadeiro,13.90,126,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,77.0,OK
+wine POR CSL Quid Pro Quo Alentejano Branco reserva,Белое,Португалия,Alentejo,Arinto,14.90,540,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,75.7,OK
+wine POR CSL Rebelde Alentejano Tinto,Красное,Португалия,Alentejo,Tempranillo,14.90,124,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,68.0,OK
+wine POR CSL Taverna Da Aldeia DOC Dao Branco,Белое,Португалия,Dao,Encruzado,15.90,592,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,73.0,OK
+wine POR CSL Valcatrina Alentejano Branco,Белое,Португалия,Alentejo,Casta,13.90,838,Белое текстурное сухое,Не определено,3,3,0,3,Нет,Нет,60%,85.4,CHECK
+wine POR CSL Valcatrina Alentejano Tinto,Красное,Португалия,Alentejo,Touriga Nacional,15.90,245,Красное структурное танинное,Сухое/не указано,4,4,4,3,Нет,Нет,82%,61.2,OK
+wine POR Sogrape Sandeman Madeira Fine Rich,Красное,Португалия,Madeira,Tinta Negra,24.90,212,Креплёное сладкое,Сладкое,4,3,1,4,Нет,Да,95%,40.1,OK
+wine POR Sogrape Sandeman Porto Ruby,Красное,Португалия,Douro,Tinta Barroca,19.90,93,Креплёное сладкое,Сладкое,4,3,1,4,Нет,Да,95%,62.5,OK
+wine POR Sogrape Sandeman Porto Tawny,Красное,Португалия,Douro,Tempranillo,19.90,91,Креплёное сладкое,Сладкое,4,3,1,4,Нет,Да,95%,38.7,OK
+wine POR Sogrape Sandeman Porto Tawny 10 YO,Красное,Португалия,Douro,Touriga Nacional,44.90,121,Креплёное сладкое,Сладкое,4,3,1,4,Нет,Да,95%,25.8,OK
+wine POR Sogrape Sandeman Porto White,Белое,Португалия,Douro,Malvasia,19.90,212,Креплёное сладкое,Сладкое,4,3,1,4,Нет,Да,95%,53.0,OK
+wine POR Sogrape Sandeman Sherry Medium Sweet,Красное,Португалия,Jerez,Tinta Negra,19.90,212,Креплёное сладкое,Полусладкое,4,3,1,4,Нет,Да,95%,46.4,OK
+wine POR Sogrape Silk\&Spice Red Blend,Красное,Португалия,Lisboa,Touriga Nacional,19.90,91,Красное структурное танинное,Сухое/не указано,4,4,4,3,Нет,Нет,82%,52.7,OK
+wine POR Sogrape Silk\&Spice Red Blend Silk Route,Красное,Португалия,Alentejo,Tinta Roriz,19.90,102,Красное структурное танинное,Сухое/не указано,4,4,4,3,Нет,Нет,82%,39.5,OK
+wine POR Sogrape Silk\&Spice Red Blend Spice Road,Красное,Португалия,Alentejo,Alicante Bouschet,19.90,82,Красное структурное танинное,Сухое/не указано,4,4,4,3,Нет,Нет,82%,40.8,OK
+wine POR Sogrape Silk\&Spice White Blend,Белое,Португалия,Bairrada,Arinto,19.90,144,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,46.9,OK
+wine POR Sogrape Sossego Alentejano Branco,Белое,Португалия,Alentejo,Arinto,19.90,208,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,29.5,OK
+wine POR Sogrape Sossego Alentejano Tinto,Красное,Португалия,Alentejo,Touriga Nacional,19.90,218,Красное структурное танинное,Сухое/не указано,4,4,4,3,Нет,Нет,82%,41.4,OK
+wine SAF Classic Cabernet Sauvignon,Красное,Южная Африка,Western Cape,Cabernet Sauvignon,15.90,149,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,66.2,OK
+wine SAF Classic Chardonnay,Белое,Южная Африка,Western Cape,Chardonnay,15.90,921,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,83.6,OK
+wine SAF Classic Chenin Blanc,Белое,Южная Африка,Western Cape,Chenin Blanc,15.90,175,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,25.5,OK
+wine SAF Classic Merlot,Красное,Южная Африка,Western Cape,Merlot,15.90,121,Красное насыщенное мягкое,Сухое/не указано,4,3,3,4,Нет,Нет,80%,55.9,OK
+wine SAF Classic Natural sweet red,Красное,Южная Африка,Western Cape,Ruby Cabernet,14.90,180,Красное полусладкое/сладкое,Полусладкое/сладкое,3,3,2,4,Нет,Нет,95%,87.3,OK
+wine SAF Classic Natural sweet rose,Розовое,Южная Африка,Western Cape,Chenin Blanc,14.90,461,Rosé полусладкое/сладкое,Полусладкое/сладкое,2,4,0,4,Нет,Нет,95%,89.9,OK
+wine SAF Classic Natural sweet white,Белое,Южная Африка,Western Cape,Chenin Blanc,14.90,189,Белое полусладкое/сладкое,Полусладкое/сладкое,3,4,0,4,Нет,Нет,95%,88.6,OK
+wine SAF Classic Sauvignon Blanc,Белое,Южная Африка,Western Cape,Sauvignon Blanc,15.90,765,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,81.0,OK
+wine SAF Classic Shiraz,Красное,Южная Африка,Western Cape,Syrah,15.90,180,Красное структурное танинное,Сухое/не указано,4,4,4,3,Нет,Нет,82%,69.9,OK
+wine SAF Classic Sparkling sweet rose,Игристое,Южная Африка,Western Cape,Chenin Blanc,17.90,146,Игристое полусладкое/сладкое,Полусладкое/сладкое,2,5,0,3,Да,Нет,93%,61.4,OK
+wine SAF Diamond Cabernet Sauvignon,Красное,Южная Африка,Western Cape,Cabernet Sauvignon,19.90,285,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,59.6,OK
+wine SAF Diamond Chardonnay,Белое,Южная Африка,Western Cape,Chardonnay,19.90,313,Белое текстурное сухое,Сухое/не указано,3,4,0,3,Нет,Нет,80%,9.7,OK
+wine SAF Diamond Sauvignon Blanc,Белое,Южная Африка,Western Cape,Sauvignon Blanc,19.90,413,Белое свежее высококислотное,Сухое/не указано,2,5,0,3,Нет,Нет,84%,45.6,OK
+wine SPA GB Beronia DOP Rioja Crianza,Красное,Испания,Rioja,Tempranillo,17.90,261,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,34.8,OK
+wine SPA GB Beronia DOP Rioja Gran Reserva,Красное,Испания,Rioja,Cabernet Sauvignon,36.00,192,Красное структурное танинное,Сухое/не указано,4,4,5,3,Нет,Нет,82%,27.4,OK
+wine SPA GB Beronia DOP Rioja Mazuelo,Красное,Испания,Rioja,Carignan,23.90,691,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,32.7,OK
+wine SPA GB Beronia DOP Rioja Reserva,Красное,Испания,Rioja,Tempranillo,24.90,193,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,55.1,OK
+wine SPA GB Beronia DOP Rioja Reserva 198 Barricas,Красное,Испания,Rioja,Tempranillo,36.00,487,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,49.3,OK
+wine SPA GB Beronia DOP Rioja Rose,Розовое,Испания,Rioja,Tempranillo,17.90,234,Rosé сухое,Сухое/не указано,2,4,0,3,Нет,Нет,82%,48.8,OK
+wine SPA GB Beronia DOP Rioja Tempranillo,Красное,Испания,Rioja,Tempranillo,23.90,217,Красное гастрономичное высококислотное,Сухое/не указано,3,4,3,3,Нет,Нет,80%,54.8,OK
+wine SPA GB Beronia DOP Rueda Verdejo,Белое,Испания,Rueda,Verdejo,17.90,222,Белое свежее высококислотное,Сухое/не указано,2,4,0,3,Нет,Нет,84%,53.5,OK
+wine SPA GB DOP Jerez-Xeres-Sherry Cristina Medium,Белое,Испания,Jerez,Palomino Fino,23.90,586,Креплёное сладкое,Полусладкое,4,3,1,4,Нет,Да,95%,45.3,OK
+wine SPA GB DOP Jerez-Xeres-Sherry Nectar Pedro Ximenez,Красное,Испания,Jerez,Pedro Ximenez,23.90,361,Креплёное сладкое,Сладкое,4,3,1,4,Нет,Да,95%,43.0,OK
+wine SPA GB Vilarnau DOP Cava Brut Reserva,Игристое,Испания,Catalonia,Macabeo,18.90,599,Игристое сухое Brut/Extra Dry,Сухое,2,5,0,3,Да,Нет,93%,77.8,OK
+wine SPA GB Vilarnau DOP Cava Demi Sec,Игристое,Испания,Catalonia,Macabeo,18.90,665,Игристое полусладкое/сладкое,Полусладкое/сладкое,2,5,0,3,Да,Нет,93%,58.8,OK
+wine SPA GB Vilarnau DOP Cava Rose Reserva,Игристое,Испания,Catalonia,Macabeo,18.90,710,Игристое rosé Brut/Sec,Сухое,2,5,0,3,Да,Нет,93%,75.4,OK
+wine Vinal VK Muscat Berbarro red semi-sweet,Красное,Украина,Krim,Muscat,11.90,85,Красное полусладкое/сладкое,Полусладкое/сладкое,3,3,2,4,Нет,Нет,95%,92.0,OK
+wine Vinal VK Muscat Marbel white semi sweet,Белое,Украина,Krim,Muscat,11.90,118,Белое полусладкое/сладкое,Полусладкое/сладкое,3,4,0,4,Нет,Нет,95%,92.8,OK
+wine Vinal VK Muscat Riviera rose semi sweet,Розовое,Украина,Krim,Muscat,11.90,149,Rosé полусладкое/сладкое,Полусладкое/сладкое,2,4,0,4,Нет,Нет,95%,97.6,OK
+wine Vinal VK Shevalie red semi sweet,Красное,Украина,Krim,Bastardo,11.90,208,Красное полусладкое/сладкое,Полусладкое/сладкое,3,3,2,4,Нет,Нет,95%,91.8,OK
+wine Vinal VK Traminer Blanc white semi sweet,Белое,Украина,Krim,Traminer,11.90,202,Белое полусладкое/сладкое,Полусладкое/сладкое,3,4,0,4,Нет,Нет,95%,91.2,OK

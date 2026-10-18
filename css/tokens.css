@@ -1,0 +1,28 @@
+/* Токены из Figma (страница WIne 2026, переменные Wine AZZA / Theme) */
+:root {
+  --paper: #faf8f3;      /* background/page */
+  --surface: #ffffff;    /* background/surface */
+  --subtle: #f0ece4;     /* background/subtle */
+  --line: #ded8ce;       /* border/default */
+  --ink: #171512;        /* text/primary */
+  --ink-2: #171512;      /* text/secondary */
+  --muted: #746e65;      /* text/muted */
+  --wine: #7a1722;       /* brand/wine */
+  --gold: #c99130;       /* акцент: пройденные шаги, «Отличный выбор» */
+  --gold-text: #99772e;
+  --green: #45634f;      /* text/success */
+  --brown: #4b2613;      /* индикатор карусели */
+
+  --f-body: 'Geologica', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --f-serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
+
+  --r-card: 32px;
+  --r-sheet: 28px;
+  --r-pill: 999px;
+
+  --shadow-card: 0 22px 56px rgba(31, 25, 16, 0.15);   /* Wine AZZA / Shadow / Card */
+  --shadow-soft: 0 6px 18px rgba(31, 25, 16, 0.10);    /* Wine AZZA / Shadow / Soft */
+  --shadow-btn: 0 2px 12px rgba(0, 0, 0, 0.12);
+
+  --ease: cubic-bezier(0.22, 0.9, 0.3, 1);
+}
