@@ -5,28 +5,28 @@
 .splash-tag { font: 500 14px/19px var(--f-serif); letter-spacing: .2em; text-transform: uppercase; color: var(--muted); margin-top: -24px; }
 
 /* ===== Главная ===== */
-.home-head { position: absolute; top: 40px; left: 0; right: 0; height: 60px; padding: 12px 24px; display: flex; align-items: center; justify-content: space-between; z-index: 4; }
+.home-head { position: absolute; top: 40px; left: 0; right: 0; height: 64px; padding: 12px 24px; display: flex; align-items: center; justify-content: space-between; z-index: 4; }
 .brand { display: flex; align-items: center; gap: 12px; }
 .brand img { width: 32px; height: 32px; object-fit: contain; }
 .brand span { font: 400 20px/27px var(--f-serif); color: var(--ink-2); }
-.lang-pill { display: flex; align-items: center; gap: 4px; height: 36px; padding: 0 14px; border-radius: 20px; border: 1px solid var(--line); background: var(--paper); font: 500 12px/16px var(--f-body); }
+.lang-pill { display: flex; align-items: center; gap: 4px; height: 36px; padding: 0 14px; border-radius: 20px; border: 1px solid var(--line); background: var(--paper); font: 500 13px/16px var(--f-body); }
 .home-title { position: absolute; top: 130px; left: 0; right: 0; padding: 0 24px; font: 400 48px/44px var(--f-serif); color: var(--ink); z-index: 4; }
 .lang-row { display: flex; align-items: center; justify-content: space-between; width: 100%; height: 54px; padding: 0 16px; border-radius: 12px; border: 1px solid transparent; background: #fff; box-shadow: 0 2px 8px rgba(31, 25, 16, .08); text-align: left; }
 .lang-row b { font: 400 14px/18px var(--f-body); }
-.lang-row i { font: 400 11px/14px var(--f-body); font-style: normal; color: var(--muted); margin-left: 10px; letter-spacing: .04em; }
+.lang-row i { font: 400 12px/14px var(--f-body); font-style: normal; color: var(--muted); margin-left: 10px; letter-spacing: .04em; }
 .lang-row.sel { border-color: var(--wine); }
 .lang-row.sel b { font-weight: 500; }
 
 /* ===== Бюджет ===== */
 .budget { position: absolute; top: 321px; left: 32px; width: calc(100% - 64px); display: flex; flex-direction: column; align-items: center; gap: 12px; z-index: 4; }
-.b-label { font: 600 10px/12px var(--f-body); letter-spacing: .08em; text-transform: uppercase; color: var(--wine); }
+.b-label { font: 600 11px/12px var(--f-body); letter-spacing: .08em; text-transform: uppercase; color: var(--wine); }
 .b-value { font: 400 34px/40px var(--f-body); color: var(--ink); letter-spacing: -.01em; }
 .b-hist { width: 100%; height: 99px; display: flex; align-items: center; justify-content: space-between; }
 .b-hist i { width: 11px; border-radius: 100px; background: var(--line); transition: background .2s; }
 .b-hist i.on { background: var(--ink-2); }
 .budget .range { width: 100%; }
 .b-labels { width: 100%; display: flex; justify-content: space-between; font: 600 14px/14px var(--f-body); color: var(--ink); }
-.b-note { font: 400 12px/18px var(--f-body); color: var(--muted); text-align: center; }
+.b-note { font: 400 13px/18px var(--f-body); color: var(--muted); text-align: center; }
 .b-quick { justify-content: center; flex-wrap: nowrap; }
 
 /* ===== Результаты / каталог ===== */
@@ -34,24 +34,24 @@
 .cat-head { position: absolute; top: 104px; left: 0; right: 0; padding: 12px; z-index: 4; }
 .cat-head .counter { display: flex; align-items: center; justify-content: space-between; padding: 8px 6px 0; }
 .cat-head .counter b { font: 500 16px/20px var(--f-body); }
-.cat-head .counter span { display: flex; align-items: center; gap: 4px; font: 400 11px/14px var(--f-body); color: var(--muted); }
+.cat-head .counter span { display: flex; align-items: center; gap: 4px; font: 400 12px/14px var(--f-body); color: var(--muted); }
 .cat-scroll { position: absolute; top: 204px; bottom: 0; left: 0; right: 0; padding-bottom: 96px; z-index: 2; }
 .cat-empty { display: flex; flex-direction: column; align-items: center; gap: 16px; padding: 56px 24px 0; text-align: center; }
 .cat-empty h2 { font: 500 24px/29px var(--f-serif); }
-.cat-empty p { font: 400 12px/18px var(--f-body); color: var(--muted); max-width: 300px; }
+.cat-empty p { font: 400 13px/18px var(--f-body); color: var(--muted); max-width: 300px; }
 
 /* ===== Фильтры ===== */
 .sheet.filters { padding: 12px 12px 24px; gap: 0; max-height: 80%; overflow-y: auto; }
 .f-head { display: flex; align-items: center; justify-content: space-between; padding: 14px 12px 12px; }
 .f-head .sheet-title { padding: 0; }
-.f-reset { font: 500 12px/16px var(--f-body); color: var(--wine); }
+.f-reset { font: 500 13px/16px var(--f-body); color: var(--wine); }
 .f-sec { padding: 12px; display: flex; flex-direction: column; gap: 8px; }
-.f-sec b { font: 600 10px/12px var(--f-body); letter-spacing: .08em; text-transform: uppercase; color: var(--wine); }
+.f-sec b { font: 600 11px/12px var(--f-body); letter-spacing: .08em; text-transform: uppercase; color: var(--wine); }
 .f-price { display: flex; align-items: center; justify-content: space-between; }
-.f-price .muted { font: 400 11px/14px var(--f-body); color: var(--muted); }
+.f-price .muted { font: 400 12px/14px var(--f-body); color: var(--muted); }
 .f-price span:last-child { font: 400 18px/22px var(--f-body); }
 .f-row { display: flex; align-items: center; justify-content: space-between; height: 45px; padding: 0 12px; border-top: 1px solid var(--line); width: 100%; text-align: left; font: 400 14px var(--f-body); }
-.f-row i { font-style: normal; font-size: 12px; color: var(--muted); margin-left: 8px; }
+.f-row i { font-style: normal; font-size: 13px; color: var(--muted); margin-left: 8px; }
 .f-foot { padding: 12px 20px 0; }
 
 /* ===== Карточка вина ===== */
@@ -61,15 +61,15 @@
 .d-left { position: absolute; left: 0; top: 0; bottom: 0; width: 260px; padding: 12px; display: flex; flex-direction: column; gap: 12px; align-items: flex-start; overflow: hidden; will-change: transform; }
 .d-left > .badge { flex: none; }
 .d-name { font: 400 24px/1.2 var(--f-serif); color: var(--ink); }
-.d-prod { align-self: stretch; display: flex; flex-direction: column; gap: 4px; font: 400 12px/normal var(--f-body); color: var(--muted); }
+.d-prod { align-self: stretch; display: flex; flex-direction: column; gap: 4px; font: 400 13px/normal var(--f-body); color: var(--muted); }
 .d-gap { flex: 1 1 0; min-height: 0; }
 .d-price { font: 400 32px/normal var(--f-body); color: var(--wine); white-space: nowrap; }
 .d-price.oos { font: 500 22px/normal var(--f-body); color: var(--muted); }
 .d-chips { align-self: stretch; gap: 4px; }
-.d-chips .chip { height: auto; padding: 8px 12px; border: 0; background: rgba(222, 216, 206, .5); color: var(--ink); font: 400 11px/normal var(--f-body); }
+.d-chips .chip { height: auto; padding: 8px 12px; border: 0; background: rgba(222, 216, 206, .5); color: var(--ink); font: 400 12px/normal var(--f-body); }
 .d-sec { align-self: stretch; border-top: 1px solid rgba(222, 216, 206, .5); padding-top: 8px; display: flex; flex-direction: column; gap: 6px; }
-.d-sec b { font: 600 12px/normal var(--f-body); text-transform: uppercase; color: var(--wine); }
-.d-sec p { font: 400 12px/normal var(--f-body); color: var(--muted); }
+.d-sec b { font: 600 13px/normal var(--f-body); text-transform: uppercase; color: var(--wine); }
+.d-sec p { font: 400 13px/normal var(--f-body); color: var(--muted); }
 .d-meters { display: flex; flex-direction: column; gap: 2px; }
 .d-sec .meter { gap: 10px; color: var(--muted); }
 .d-sec .meter span { flex: 1 1 0; width: auto; min-width: 0; }
@@ -103,8 +103,8 @@
 .mc-top { display: flex; align-items: center; justify-content: space-between; min-height: 56px; gap: 12px; }
 .mc-info { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
 .mc-info b { font: 500 16px/20px var(--f-body); color: var(--ink); }
-.mc-info span { font: 400 12px/16px var(--f-body); color: var(--muted); }
-.mc-info .h { font-size: 11px; line-height: 14px; }
+.mc-info span { font: 400 13px/16px var(--f-body); color: var(--muted); }
+.mc-info .h { font-size: 12px; line-height: 14px; }
 .app-row { display: flex; align-items: center; gap: 12px; width: 100%; height: 54px; padding: 8px 12px; border-radius: 12px; background: #fff; box-shadow: 0 2px 8px rgba(31, 25, 16, .08); text-align: left; font: 400 14px var(--f-body); }
 .app-ic { width: 36px; height: 36px; border-radius: 50%; background: #fff; display: grid; place-items: center; }
 

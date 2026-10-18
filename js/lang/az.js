@@ -1,7 +1,7 @@
 /* Azərbaycan dili. */
 (function (A) {
   (A.dict = A.dict || {}).az = {
-    'back': 'Geri', 'clear': 'Təmizlə', 'continue': 'Davam et', 'any': 'İstənilən',
+    'home': 'Ana səhifəyə', 'back': 'Geri', 'clear': 'Təmizlə', 'continue': 'Davam et', 'any': 'İstənilən',
     'title.sommelier': 'Şəxsi sommelye', 'title.recs': 'Sommelye tövsiyələri', 'title.wine': 'Şərab kartı', 'title.buy': 'Haradan almaq', 'title.catalog': 'Şərab kataloqu',
     'badge.best': 'Sommelye tövsiyəsi', 'badge.great': 'Əla seçim', 'badge.good': 'Yaxşı seçim',
     'color.red': 'Qırmızı', 'color.white': 'Ağ', 'color.rose': 'Çəhrayı', 'color.sparkling': 'Köpüklü',

@@ -30,7 +30,7 @@
 
   function frame(cur, body, label) {
     return `<img class="bg-cellar" src="assets/bg/cellar.png" alt="">
-      ${ui.toprow(A.t('title.sommelier'), { tight: true, backAttrs: `data-act="home" aria-label="${A.t('back')}"` })}
+      ${ui.toprow(A.t('title.sommelier'), { tight: true, right: { icon: A.I.home, attrs: `data-act="home" aria-label="${A.t('home')}"` } })}
       ${tabs(cur)}
       <div class="question"><h1>${STEPS[cur].q}</h1></div>
       ${body}

@@ -1,7 +1,7 @@
 /* English. */
 (function (A) {
   (A.dict = A.dict || {}).en = {
-    'back': 'Back', 'clear': 'Clear', 'continue': 'Continue', 'any': 'Any',
+    'home': 'Home', 'back': 'Back', 'clear': 'Clear', 'continue': 'Continue', 'any': 'Any',
     'title.sommelier': 'Personal sommelier', 'title.recs': 'Sommelier picks', 'title.wine': 'Wine Card', 'title.buy': 'Where to buy', 'title.catalog': 'Wine catalog',
     'badge.best': 'Sommelier’s pick', 'badge.great': 'Great choice', 'badge.good': 'Good choice',
     'color.red': 'Red', 'color.white': 'White', 'color.rose': 'Rosé', 'color.sparkling': 'Sparkling',

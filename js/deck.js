@@ -3,9 +3,8 @@
   const esc = (s) => A.ui.esc(s);
 
   function flag(item) {
-    if (!item.flag || !item.flagBox) return '';
-    const [x, y, w, h] = item.flagBox;
-    return `<div class="dc-flag-box">${item.flagUnder ? '<i class="dc-flag-under"></i>' : ''}<img class="dc-flag" src="${item.flag}" alt="" draggable="false" style="left:${x}px;top:${y}px;width:${w}px;height:${h}px"></div>`;
+    if (!item.flag) return '';
+    return `<div class="dc-flag-box">${item.flagUnder ? '<i class="dc-flag-under"></i>' : ''}<img class="dc-flag" src="${item.flag}" alt="" draggable="false"></div>`;
   }
 
   function card(item, i) {

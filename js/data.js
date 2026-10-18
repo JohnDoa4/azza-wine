@@ -2,12 +2,7 @@
 (function (A) {
   const img = (folder, key) => `assets/images/${folder}/${key}.png`;
 
-  /* Флаг на карточке страны (из Figma): рамка 50×50 в точке 226,16 обрезает картинку; здесь смещение и размер картинки внутри рамки. */
-  const FLAG_BOX = {
-    all: [4.9, 4.9, 40.3, 40.3], argentina: [-5.9, -6, 61.8, 61.8], chile: [-7.3, -6.8, 64.5, 63.6], italy: [-8.1, -6.8, 66.2, 63.6],
-    ukraine: [-11.2, -13.6, 72.7, 77.3], spain: [-7.1, -7.2, 64.5, 64.5], france: [-7.4, -6.1, 64.7, 62.1], south_africa: [-19.9, -18.7, 87.3, 87.3],
-    georgia: [-11.9, -11.4, 72.9, 72.9], moldova: [-10.8, -11.8, 69.2, 72.9], portugal: [-10.3, -11.8, 69.5, 73.6],
-  };
+  /* Флаг на карточке страны: картинка вписана в квадрат 50×50 (как в Figma), без обрезки. */
 
   const T = (k, v) => A.i18n.t(k, v);
   /** Элемент колоды: заголовок и подпись берутся из словаря при каждом чтении (смена языка без пересборки). */
@@ -22,7 +17,7 @@
   const dishes = ['any', 'red_meat', 'poultry', 'fish', 'seafood', 'pasta', 'cheese', 'asian', 'veggies', 'snacks', 'dessert'].map((id) => item('dish', id, { img: img('dishes', id) }));
   const colors = ['any', 'red', 'white', 'rose', 'sparkling'].map((id) => item('col', id, { img: img('colors', id) }));
   const countries = ['all', 'italy', 'france', 'georgia', 'portugal', 'chile', 'spain', 'south_africa', 'moldova', 'argentina', 'ukraine']
-    .map((id) => item('cty', id, { img: img('countries', id), flag: img('flags', id === 'all' ? 'compass' : id), flagBox: FLAG_BOX[id], flagUnder: id === 'italy' }));
+    .map((id) => item('cty', id, { img: img('countries', id), flag: img('flags', id === 'all' ? 'compass' : id), flagUnder: id === 'italy' }));
 
   const home = [
     item('home', 'pick', { img: img('home', 'pick'), go: 'step-occasion', get cta() { return T('home.pick.cta'); } }),

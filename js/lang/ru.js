@@ -3,7 +3,7 @@
   const plural = (n, one, few, many) => (n % 100 >= 11 && n % 100 <= 14 ? many : n % 10 === 1 ? one : n % 10 >= 2 && n % 10 <= 4 ? few : many);
   (A.dict = A.dict || {}).ru = {
     // общие
-    'back': 'Назад', 'clear': 'Очистить', 'continue': 'Продолжить', 'any': 'Любой',
+    'home': 'На главную', 'back': 'Назад', 'clear': 'Очистить', 'continue': 'Продолжить', 'any': 'Любой',
     'title.sommelier': 'Personal sommelier', 'title.recs': 'Рекомендации сомелье', 'title.wine': 'Wine Card', 'title.buy': 'Где купить', 'title.catalog': 'Каталог вин',
     'badge.best': 'Рекомендует сомелье', 'badge.great': 'Отличный выбор', 'badge.good': 'Хороший выбор',
     'color.red': 'Красное', 'color.white': 'Белое', 'color.rose': 'Розовое', 'color.sparkling': 'Игристое',
