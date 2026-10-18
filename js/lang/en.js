@@ -14,7 +14,7 @@
 
     'step.occasion': 'Occasion', 'step.dish': 'Dish', 'step.color': 'Wine', 'step.country': 'Country', 'step.budget': 'Budget',
     'q.occasion': 'What is the occasion?', 'q.dish': 'What will be on the table?', 'q.color': 'Which wine style do you prefer?', 'q.country': 'Any preference by country?', 'q.budget': 'What budget is comfortable?',
-    'occ.none.t': 'No occasion / For myself', 'occ.none.d': 'A glass for yourself',
+    'occ.none.t': 'No occasion', 'occ.none.d': 'A glass for yourself',
     'occ.dinner.t': 'Dinner', 'occ.dinner.d': 'A quiet evening at the table',
     'occ.date.t': 'Date', 'occ.date.d': 'A romantic evening',
     'occ.party.t': 'Party', 'occ.party.d': 'Light and fun',

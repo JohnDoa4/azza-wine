@@ -14,7 +14,7 @@
 
     'step.occasion': 'Səbəb', 'step.dish': 'Yemək', 'step.color': 'Şərab', 'step.country': 'Ölkə', 'step.budget': 'Büdcə',
     'q.occasion': 'Hansı tədbir üçün seçirsiniz?', 'q.dish': 'Süfrədə nə olacaq?', 'q.color': 'Şərabın hansı üslubunu üstün tutursunuz?', 'q.country': 'Ölkə üzrə üstünlüyünüz var?', 'q.budget': 'Hansı büdcə sizə rahatdır?',
-    'occ.none.t': 'Səbəbsiz / Özüm üçün', 'occ.none.d': 'Özüm üçün bir qədəh',
+    'occ.none.t': 'Səbəbsiz', 'occ.none.d': 'Özüm üçün bir qədəh',
     'occ.dinner.t': 'Şam yeməyi', 'occ.dinner.d': 'Süfrə arxasında sakit axşam',
     'occ.date.t': 'Görüş', 'occ.date.d': 'Romantik axşam',
     'occ.party.t': 'Məclis', 'occ.party.d': 'Asan və şən',
