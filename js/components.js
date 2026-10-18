@@ -53,7 +53,7 @@
   function toprow(title, o) {
     o = o || {};
     const right = o.right ? iconBtn(o.right.icon, o.right.attrs || '', o.right.cls || '') : iconBtn(I.back, 'tabindex="-1" aria-hidden="true"', 'ghost');
-    const left = o.noBack ? iconBtn(I.back, 'tabindex="-1" aria-hidden="true"', 'ghost') : iconBtn(I.back, `data-back aria-label="${A.t('back')}"`);
+    const left = o.noBack ? iconBtn(I.back, 'tabindex="-1" aria-hidden="true"', 'ghost') : iconBtn(I.back, o.backAttrs || `data-back aria-label="${A.t('back')}"`);
     return `<div class="toprow ${o.tight ? 'tight' : ''}">${left}<div class="page-title">${esc(title)}</div>${right}</div>`;
   }
 

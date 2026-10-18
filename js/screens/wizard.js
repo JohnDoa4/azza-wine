@@ -30,7 +30,7 @@
 
   function frame(cur, body, label) {
     return `<img class="bg-cellar" src="assets/bg/cellar.png" alt="">
-      ${ui.toprow(A.t('title.sommelier'), { tight: true })}
+      ${ui.toprow(A.t('title.sommelier'), { tight: true, backAttrs: `data-act="home" aria-label="${A.t('back')}"` })}
       ${tabs(cur)}
       <div class="question"><h1>${STEPS[cur].q}</h1></div>
       ${body}
@@ -39,6 +39,7 @@
 
   const common = {
     act: {
+      home() { R.go('home', {}, { reset: true, dir: 'back' }); },
       tab(el, ctx, btn) { const i = +btn.dataset.i; R.go(STEPS[i].route, {}, { replace: true, dir: 'back' }); },
       next(el, ctx) {
         const cur = STEPS.findIndex((s) => s.route === el.dataset.screen);
